@@ -1,5 +1,7 @@
 # Agora
 
+### Installation and Setup
+
 Configure environment variables:
 
 ```
@@ -20,3 +22,9 @@ from src.agora import Agora
 agora_model = Agora
 response = agora_model.transcribe("filepath_to_speech_audio.wav")
 print(respone["outputText"])
+
+### Quickstart examples
+
+```
+python -m quickstart.run_sample
+```
