@@ -7,6 +7,7 @@ import dotenv
 dotenv.load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
+
 class Agora:
 
     def __init__(self):
@@ -32,10 +33,23 @@ class Agora:
         """
         Generates output based on current_text that is fed to this function
         """
-        if not contains_hate_speech:
+        if not contains_hate_speech or self.generator_counter>10:
             self.output_text = current_text
+            self.__reinitialize_class()
             return generate_return_dict()
-
+        else:
+            response = openai.Completion.create(
+                    model="text-davinci-003",
+                    prompt=f"Paraphrase the following phrase in a non-offensive way: \"{current_text}\"",
+                    temperature=0.5,
+                    max_tokens=250,
+                    top_p=1.0,
+                    frequency_penalty=0.8,
+                    presence_penalty=0.0
+                )
+            new_text = response["choices"][0]["text"].replace("\n", "")
+            self.generator_counter += 1
+            self.generate_output(new_text)
 
     def contains_hate_speech(self, text):
         """
