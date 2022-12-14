@@ -26,5 +26,5 @@ print(respone["outputText"])
 ### Quickstart examples
 
 ```
-python -m quickstart.run_sample
+python -m quickstart.run\_sample
 ```
