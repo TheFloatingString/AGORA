@@ -9,7 +9,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 response = openai.Completion.create(
         model="text-davinci-003",
-        prompt="What is the capital city of Canada?",
+        prompt="Does the following prompt contain offensive language: \"you are awesome\"",
         temperature=0.5,
         max_tokens=250,
         top_p=1.0,
