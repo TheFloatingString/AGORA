@@ -25,18 +25,21 @@ class Agora:
         speech to generated output.
         """
         self.filepath = filepath
-        self.initial_text = self.whisper_model.transcribe(self.filepath)
-        return generate_output(self.initial_text)
+        self.initial_text = self.whisper_model.transcribe(self.filepath)["text"]
+        return self.generate_output(self.initial_text)
 
 
     def generate_output(self, current_text):
         """
         Generates output based on current_text that is fed to this function
         """
-        if not contains_hate_speech or self.generator_counter>10:
+        print(f"current iteration: {self.generator_counter}")
+
+        print(current_text)
+
+        if not self.contains_hate_speech(current_text) or self.generator_counter>10:
             self.output_text = current_text
-            self.__reinitialize_class()
-            return generate_return_dict()
+            return self.generate_return_dict()
         else:
             response = openai.Completion.create(
                     model="text-davinci-003",
@@ -75,7 +78,7 @@ class Agora:
             raise ValueError(f"GPT-3 cannot determine whether the current prompt contains offensive language: \"{text}\"") 
 
 
-    def genrate_return_dict(self):
+    def generate_return_dict(self):
         """
         Generates a return dict based on current class attributes
         """
