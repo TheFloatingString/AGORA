@@ -1,4 +1,4 @@
-# Agora
+# AGORA
 
 ### Installation and Setup
 
