@@ -19,7 +19,7 @@ class Agora:
         self.output_text = None
 
 
-    def transcribe(self, filepath):
+    def transcribe_audio(self, filepath):
         """
         The user only needs to call this method to transcribe 
         speech to generated output.
@@ -53,6 +53,45 @@ class Agora:
             new_text = response["choices"][0]["text"].replace("\n", "")
             self.generator_counter += 1
             self.generate_output(new_text)
+
+    def contains_jigsaw_hate_speech(self, text):
+        """
+        Checks if the current text contains hate speech based on the Jigsaw criteria
+        """
+        openai_prompt = f"Does the following text contain one or more of toxic, severe toxic, obscene, threat, insult or identity hate: \"{text}\""
+
+        response = openai.Completion.create(
+                model="text-davinci-003",
+                prompt=openai_prompt,
+                temperature=0.5,
+                top_p=1.0,
+                frequency_penalty=0.8,
+                presence_penalty=0.0
+                )
+        
+        text_response = response["choices"][0]["text"]
+ 
+        return_dict = {
+                "toxic": False,
+                "severe toxic": False,
+                "obscene": False,
+                "threat": False,
+                "insult": False,
+                "identity hate": False
+                }
+
+        if text_response[0:2].lower() == "no":
+            return return_dict
+
+        list_of_items = text_response.split(",")
+
+        for item in list_of_items:
+            item = item.strip().lower()
+            if item in return_dict.keys():
+                return_dict[item] = True
+        
+        return return_dict
+
 
     def contains_hate_speech(self, text):
         """
