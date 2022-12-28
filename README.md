@@ -38,3 +38,13 @@ Note: move `train.csv` into `data/jigsaw-data` from the Jigsaw dataset on Kaggle
 python -m src.run_jigsaw_data
 python -m src.analyze_resutls
 ```
+
+### Filter and Paraphrase the Speech-to-Text Functionality for Offensive Content
+
+Run the folowing, while making sure to change the filename from `1` to `10` at each new run.
+
+**Warning: the audio files contain explicit content.**
+
+```
+python -m src.run_audio_files
+```
