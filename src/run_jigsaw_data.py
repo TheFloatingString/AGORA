@@ -17,7 +17,7 @@ pred_dict_map = {
         }
 
 
-for i in range(100, 200):
+for i in range(0, 200):
     agora_obj = Agora()
     input_text = train_df.iloc[i]["comment_text"]
 
@@ -36,5 +36,5 @@ for i in range(100, 200):
 
     results_df = results_df.append(temp_results_dict, ignore_index=True)
 
-results_df.to_csv("results.csv", index=False)
+results_df.to_csv("results/results.csv", index=False)
 
