@@ -58,7 +58,7 @@ class Agora:
         """
         Checks if the current text contains hate speech based on the Jigsaw criteria
         """
-        openai_prompt = f"Does the following text contain one or more of toxic, severe toxic, obscene, threat, insult or identity hate: \"{text}\""
+        openai_prompt = f"Does the following text prompt contain one or several of toxic, severe toxic, obscene, threat, insult or identity hate: \"{text}\""
 
         response = openai.Completion.create(
                 model="text-davinci-003",

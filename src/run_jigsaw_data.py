@@ -17,7 +17,7 @@ pred_dict_map = {
         }
 
 
-for i in range(0, 100):
+for i in range(100, 200):
     agora_obj = Agora()
     input_text = train_df.iloc[i]["comment_text"]
 
