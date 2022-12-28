@@ -2,7 +2,7 @@ import whisper
 import openai
 import os
 import dotenv
-
+import time
 
 dotenv.load_dotenv()
 openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -90,6 +90,10 @@ class Agora:
             if item in return_dict.keys():
                 return_dict[item] = True
         
+        # the time.sleep(3) acts as a rate-limiting function (20 requests/minute) as supported
+        # by OpenAI with the free tier
+        time.sleep(3)
+
         return return_dict
 
 
