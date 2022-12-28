@@ -29,3 +29,12 @@ print(respone["outputText"])
 ```
 python -m quickstart.run_sample
 ```
+
+### Analyze AGORA's ability to Recognize Offensive Content in the Jigsaw Dataset
+
+Note: move `train.csv` into `data` from the Jigsaw dataset on Kaggle (https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data)
+
+```
+python -m src.run_jigsaw
+python -m src.analyze_resutls
+```
