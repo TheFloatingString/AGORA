@@ -101,6 +101,16 @@ class Agora:
         """
         Checks if the current text contains hate speech
         """
+        jigsaw_pred = self.contains_jigsaw_hate_speech(text)
+        print(jigsaw_pred.values())
+        if True in jigsaw_pred.values():
+            return True
+        else:
+            return False
+
+
+        # archived code
+        """
         response = openai.Completion.create(
                 model="text-davinci-003",
                 prompt=f"Does the following prompt contain offensive language: \"{text}\"",
@@ -119,7 +129,7 @@ class Agora:
         else:
             print(response)
             raise ValueError(f"GPT-3 cannot determine whether the current prompt contains offensive language: \"{text}\"") 
-
+    """
 
     def generate_return_dict(self):
         """
