@@ -1,4 +1,7 @@
-# AGORA
+# AGORA - Automated Generation and Omission Recurrent Architecture
+
+Given a speech input (audio recording), this model replaces hate speech and profanity with generated textual content. (Speech to text model.)
+
 
 ### Installation and Setup
 
