@@ -17,6 +17,8 @@ class Agora:
         self.generator_counter = 0
         self.initial_text = None
         self.output_text = None
+        self.return_dict = {}
+        self.history_logs = {"history": []}
 
 
     def transcribe_audio(self, filepath):
@@ -26,7 +28,9 @@ class Agora:
         """
         self.filepath = filepath
         self.initial_text = self.whisper_model.transcribe(self.filepath)["text"]
-        return self.generate_output(self.initial_text)
+        output = self.generate_output(self.initial_text)
+        print("final_output", self.return_dict)
+        return self.return_dict
 
 
     def generate_output(self, current_text):
@@ -37,9 +41,18 @@ class Agora:
 
         print(current_text)
 
+        temp_dict = {
+                "iteration": self.generator_counter,
+                "text": current_text
+                }
+        self.history_logs["history"].append(temp_dict)
+
         if not self.contains_hate_speech(current_text) or self.generator_counter>10:
             self.output_text = current_text
-            return self.generate_return_dict()
+            return_dict = self.generate_return_dict()
+            print("out", return_dict)
+            self.return_dict = return_dict
+            return return_dict
         else:
             response = openai.Completion.create(
                     model="text-davinci-003",
@@ -52,6 +65,7 @@ class Agora:
                 )
             new_text = response["choices"][0]["text"].replace("\n", "")
             self.generator_counter += 1
+            
             self.generate_output(new_text)
 
     def contains_jigsaw_hate_speech(self, text):
@@ -141,8 +155,14 @@ class Agora:
                 "outputText": self.output_text,
                 "containsHateSpeech": None,
                 "status": None,
-                "error": None
+                "error": None,
+                "history": self.history_logs
             }
+
+        print("Generating return dict")
+        print(return_dict)
+        print("...")
+        print(return_dict)
 
         return return_dict
 
