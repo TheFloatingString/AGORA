@@ -62,6 +62,8 @@ async def api_transcribe(request: Request):
     tts = gTTS(response["outputText"])
     tts.save("static/output_speech.mp3")
 
+    response["audioFilepath"] = "C:\\Users\\laure\\Desktop\\Projects\\AGORA\\static\\output_speech.mp3"
+
     return {"data": response}
 
 if __name__ == "__main__":
