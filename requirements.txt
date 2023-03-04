@@ -24,6 +24,7 @@ pandas-stubs==1.5.2.221213
 pydantic==1.10.5
 python-dateutil==2.8.2
 python-dotenv==0.21.0
+python-multipart==0.0.6
 pytz==2022.6
 PyYAML==6.0
 regex==2022.10.31
