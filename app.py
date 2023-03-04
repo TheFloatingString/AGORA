@@ -33,8 +33,20 @@ async def api_upload(request: Request):
 @app.post("/api/transcribe")
 async def api_transcribe(request: Request):
     form = await request.form()
-    print(form)
-    print(dir(form))
+    
+    # print(form)
+    # print(dir(form))
+    # print("---")
+    # print(form["file"])
+    # print(dir(form["file"]))
+
+    filename = form["file"].filename+".wav"
+    filepath = f"static/{filename}"
+    file_contents = await form["file"].read()
+
+    with open(filepath, "wb") as f:
+        f.write(file_contents)
+
     return {"data": "received"}
 
 if __name__ == "__main__":
