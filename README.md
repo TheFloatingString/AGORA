@@ -51,3 +51,19 @@ Run the folowing, while making sure to change the filename from `1` to `10` at e
 ```
 python -m src.run_audio_files
 ```
+
+### Text Prompts
+
+Rephrasing:
+
+```python
+f"Paraphrase the following phrase in a non-offfensive way: \"{current_text}\""
+```
+
+
+Toxicity detection:
+```python
+f"Does the following text prompt contain one or several of toxic, severe toxic, obscene, threat, insult or identity hate: \"{text}\"Provide a single answer: \"yes\" or \"no\"."
+```
+
+
