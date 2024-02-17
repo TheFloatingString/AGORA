@@ -8,7 +8,7 @@ Given a speech input (audio recording), this model replaces hate speech and prof
 Configure environment variables:
 
 ```
-set OPENAI_API_KEY=<API_KEY>
+set OPENAI_API_KEY_AGORA=<API_KEY>
 ```
 
 Setup
