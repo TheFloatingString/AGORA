@@ -4,6 +4,7 @@ import os
 import dotenv
 import time
 from openai import OpenAI
+import pandas as pd
 
 dotenv.load_dotenv()
 # openai.api_key = os.getenv("OPENAI_API_KEY")
@@ -16,6 +17,22 @@ class Agora:
         self.initial_text = None
         self.output_text = None
         self.openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY_AGORA"))
+        self.dict_to_pandas = dict()
+
+    def config_pandas_dict(self, true_label, true_label_detail, true_transcript):
+        self.dict_to_pandas["true_label"] = true_label
+        self.dict_to_pandas["true_label_detail"] = true_label_detail
+        self.dict_to_pandas["true_transcript"] = true_transcript
+
+    def export_pandas_dict(self):
+        self.dict_to_pandas["n_iterations"] = self.generator_counter
+        if self.generator_counter == 0:
+            self.dict_to_pandas["predict_label"] = "non-toxic"
+        elif self.generator_counter > 0:
+            self.dict_to_pandas["predict_label"] = "toxic"
+        self.dict_to_pandas["initial_whisper_text"] = self.initial_text
+        self.dict_to_pandas["output_text"] = self.output_text
+        return self.dict_to_pandas
 
     def transcribe_audio(self, filepath):
         """
@@ -31,15 +48,16 @@ class Agora:
         Generates output based on current_text that is fed to this function
         """
         print(f"current iteration: {self.generator_counter}")
-        print(current_text)
+        # print(current_text)
         if not self.contains_hate_speech(current_text) or self.generator_counter>10:
             self.output_text = current_text
             return self.generate_return_dict()
         else:
             response = self.openai_client.chat.completions.create(
                     model="gpt-3.5-turbo",
+                    # model="gpt-4-0125-preview",
                     messages=[
-                        {"role":"user", "content": f"Paraphrase the following phrase in a non-offfensive way: \"{current_text}\""}
+                        {"role":"user", "content": f"Paraphrase the following phrase in a non-offfensive way: \"{current_text}\" Only provide the rephrased text with nothing else."}
                         ]
                     )
             new_text = response.choices[0].message.content
@@ -62,9 +80,13 @@ class Agora:
         """
         Checks if the current text contains hate speech based on the Jigsaw criteria
         """
-        openai_prompt = f"Does the following text prompt contain one or several of toxic, severe toxic, obscene, threat, insult or identity hate: \"{text}\"Provide a single answer: \"yes\" or \"no\"."
+        # openai_prompt = f"Does the following text prompt contain one or several of toxic, severe toxic, obscene, threat, insult or identity hate: \"{text}\"Provide a single answer: \"yes\" or \"no\"."
+        openai_prompt = f"Does the following text prompt contain toxic or offensive language: \"{text}\" Provide a single answer: \"yes\" or \"no\"."
+        # openai_prompt = f"Does the following text contain harmful content: \"{text}\" Provide a singel answer: \"yes\" or \"no\"."
+        print(openai_prompt)
         response = self.openai_client.chat.completions.create(
                 model="gpt-3.5-turbo",
+                # model="gpt-4-0125-preview",
                 messages=[
                     {"role":"user", "content":openai_prompt}
                     ]
@@ -89,13 +111,20 @@ class Agora:
                 "insult": False,
                 "identity hate": False
                 }
-        if text_response[0:2].lower() == "no":
-            return return_dict
-        list_of_items = text_response.split(",")
-        for item in list_of_items:
-            item = item.strip().lower()
-            if item in return_dict.keys():
-                return_dict[item] = True
+        
+        if text_response.lower() == "no":
+            return False
+        else:
+            return True
+
+        # print(text_response)
+        # if text_response[0:2].lower() == "no":
+        #     return return_dict
+        # list_of_items = text_response.split(",")
+        # for item in list_of_items:
+        #     item = item.strip().lower()
+        #     if item in return_dict.keys():
+        #         return_dict[item] = True
         
         # the time.sleep(3) acts as a rate-limiting function (20 requests/minute) as supported
         # by OpenAI with the free tier
@@ -109,8 +138,9 @@ class Agora:
         Checks if the current text contains hate speech
         """
         jigsaw_pred = self.contains_jigsaw_hate_speech(text)
-        print(jigsaw_pred.values())
-        if True in jigsaw_pred.values():
+        # print(jigsaw_pred.values())
+        # if True in jigsaw_pred.values():
+        if jigsaw_pred:
             return True
         else:
             return False
