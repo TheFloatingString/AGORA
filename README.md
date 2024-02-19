@@ -52,9 +52,3 @@ Run the folowing, while making sure to change the filename from `1` to `10` at e
 python -m src.run_audio_files
 ```
 
-
-## TODO
-
-+ Write Pandas dataframe to log (1) number of iterations (2) initial speech-to-text (3) final speech-to-text (4) initial prediction (toxic or not)
-+ Write writeup
-+ Human evaluator: judge LLM
