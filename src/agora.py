@@ -16,7 +16,7 @@ class Agora:
         self.generator_counter = 0
         self.initial_text = None
         self.output_text = None
-        self.openai_client = OpenAI(api_key=os.getenv("OPENAI_API_KEY_AGORA"))
+        self.openai_client = OpenAI()
         self.dict_to_pandas = dict()
 
     def config_pandas_dict(self, true_label, true_label_detail, true_transcript):
