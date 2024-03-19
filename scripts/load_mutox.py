@@ -8,7 +8,7 @@ from io import BytesIO
 
 N_SAMPLES = 1000
 VERBOSE = False
-LANG='spa'
+LANG='cmn'
 
 df = pd.read_csv("data/mutox/mutox.tsv", delimiter='\t')
 df = df[df['lang']==LANG]
@@ -42,8 +42,13 @@ def crop_and_save(df,i,return_info_from_str):
     try:
         audio_data = BytesIO(audio_resp.content)
         audio = AudioSegment.from_file(audio_data, format='mp3')
-        cropped_audio = audio[info_dict['start']:info_dict['end']]
-        cropped_audio.export(f'data/mutox/Data/{LANG}-devtest/mutox-{sample_id}.wav',format='wav')
+        audio.export('init-tmp.wav',format='wav')
+        cropped_audio = audio[0:2500]
+        cropped_audio.export('tmp.wav')
+        print(info_dict['start'])
+        print(info_dict['end'])
+        #cropped_audio = audio[info_dict['start']:info_dict['end']]
+        #cropped_audio.export(f'data/mutox/Data/{LANG}-devtest/mutox-{sample_id}.wav',format='wav')
     except IndexError:
         print(f'skipped {sample_id} due to error')
 
@@ -54,3 +59,4 @@ for j in trange(0,N_SAMPLES):
     t = threading.Thread(target=crop_and_save, args=(df,i,return_info_from_str,))
     t.start()
     t.join(timeout=5)
+    break
