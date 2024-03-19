@@ -1,0 +1,845 @@
+true_label,true_label_detail,true_transcript,n_iterations,predict_label,initial_whisper_text,output_text
+,,,0,non-toxic," es que es dijo a su ciervo, o sea aquí veis al hombre portándose con un loco"," es que es dijo a su ciervo, o sea aquí veis al hombre portándose con un loco"
+,,,2,toxic," Sororza que i50 es algo trade eliminating Duria estής, como que no hay como de todo y que no voy poder économique, entonces no recommending co problems<|es|> Efecto.","It appears that i50 is experiencing a slight delay in addressing Duria, suggesting the situation may not be fully resolved, which could lead to financial uncertainties. As such, it might be prudent to reconsider proceeding due to possible complications."
+,,,1,toxic," que me echaría en tierra, debía cumplir mi compromiso y dejar que el monstruo se fuera",necesitaba mantener mi palabra y permitir que el monstruo se marchara.
+,,,0,non-toxic, A mí no me gusta que Dios está haciendo que yo no puedo tener el sexo libre con quien yo quiero., A mí no me gusta que Dios está haciendo que yo no puedo tener el sexo libre con quien yo quiero.
+,,,0,non-toxic, El legalismo lo lleva a ser arrogantes., El legalismo lo lleva a ser arrogantes.
+,,,1,toxic, decidas completamente ridículas. Ahí...,decisiones totalmente inusuales. Ahí...
+,,,0,non-toxic," parte del que os hemos predicado, se amaldición."," parte del que os hemos predicado, se amaldición."
+,,,0,non-toxic, pero ¿qué pasa? Ellos no lo hacen., pero ¿qué pasa? Ellos no lo hacen.
+,,,0,non-toxic," que hombre, ese maldito, ese genio del mal que siempre se me ha aparecido cuando alguna desgracia me amenazaba."," que hombre, ese maldito, ese genio del mal que siempre se me ha aparecido cuando alguna desgracia me amenazaba."
+,,,0,non-toxic, supongo que usted se dijo si otros perdedores lo han conseguido, supongo que usted se dijo si otros perdedores lo han conseguido
+,,,0,non-toxic, ¿Cuál es tu libro preferido de ciencia ficción reciente?, ¿Cuál es tu libro preferido de ciencia ficción reciente?
+,,,0,non-toxic, sus chocs y sus armas por todo el mundo y que eso no se iba a firmar, sus chocs y sus armas por todo el mundo y que eso no se iba a firmar
+,,,1,toxic, biolo a una de sus hijas.,Se ofreció como padrino de bautizo para una de sus hijas.
+,,,0,non-toxic, hacer dos describirá estas maldiciones en un libro., hacer dos describirá estas maldiciones en un libro.
+,,,0,non-toxic, mayoritario en este país y será una vergüenza., mayoritario en este país y será una vergüenza.
+,,,0,non-toxic," o sea, en producción de de los salavaginas."," o sea, en producción de de los salavaginas."
+,,,0,non-toxic, para que los borres y los que me es todos a la vez., para que los borres y los que me es todos a la vez.
+,,,0,non-toxic, como ab es condenado y su pueblo sufrirá., como ab es condenado y su pueblo sufrirá.
+,,,0,non-toxic," Si hay que morir, entonces morir peleando por la libertad."," Si hay que morir, entonces morir peleando por la libertad."
+,,,0,non-toxic, factor negativo para las relaciones sexuales sería el apuro., factor negativo para las relaciones sexuales sería el apuro.
+,,,0,non-toxic," decir, escuadrones de la muerte, destrozando personas con motocierra."," decir, escuadrones de la muerte, destrozando personas con motocierra."
+,,,0,non-toxic, pero de ningún modo una deidad. Su nombre es una derivación del griego simia. ¿Qué terribles tontos son los antiguarios?, pero de ningún modo una deidad. Su nombre es una derivación del griego simia. ¿Qué terribles tontos son los antiguarios?
+,,,0,non-toxic, La mayoría de estos gobernantes son unos verdaderos hipócritas., La mayoría de estos gobernantes son unos verdaderos hipócritas.
+,,,2,toxic, mantenido relaciones sexuales con minores.,"""Was involved in misconduct involving young individuals."""
+,,,0,non-toxic, y mató a uno de los egipcios y se fue viajada., y mató a uno de los egipcios y se fue viajada.
+,,,0,non-toxic," y él mata a 30 filisteos, toma los vestidos y para su deguda."," y él mata a 30 filisteos, toma los vestidos y para su deguda."
+,,,0,non-toxic," y esto es tu pide, es por parte de yo."," y esto es tu pide, es por parte de yo."
+,,,0,non-toxic, que el mismo gobierno es el anticristo criminal y son piores que la mafia., que el mismo gobierno es el anticristo criminal y son piores que la mafia.
+,,,0,non-toxic," cuando nos volvemos indiferentes, fríos."," cuando nos volvemos indiferentes, fríos."
+,,,0,non-toxic, cuando el señor creó los cielos y la tierra y toda su plenitud., cuando el señor creó los cielos y la tierra y toda su plenitud.
+,,,0,non-toxic, lo asesinaron esta mañana, lo asesinaron esta mañana
+,,,0,non-toxic, en cura y eso es su eterno., en cura y eso es su eterno.
+,,,0,non-toxic, tuitea una foto retoitea una foto de una pareja de gays besándose, tuitea una foto retoitea una foto de una pareja de gays besándose
+,,,0,non-toxic, de las asechanzas y de las arpinmayas del maldito., de las asechanzas y de las arpinmayas del maldito.
+,,,1,toxic, contra alguien usted es un asesismo.,"Frente a alguien, usted es extremadamente competente."
+,,,0,non-toxic, quiere decir de matar o destruir., quiere decir de matar o destruir.
+,,,0,non-toxic, Me dio con el martillo en la cabeza., Me dio con el martillo en la cabeza.
+,,,0,non-toxic, terminar tomando la decisión de matar a quien., terminar tomando la decisión de matar a quien.
+,,,0,non-toxic," Pero, al fin, le matamos con el cuchillo."," Pero, al fin, le matamos con el cuchillo."
+,,,0,non-toxic, en la promoción de libertinaje sexual., en la promoción de libertinaje sexual.
+,,,0,non-toxic, disparando y matando todos, disparando y matando todos
+,,,0,non-toxic, accidentes y los narcos que compraron el país., accidentes y los narcos que compraron el país.
+,,,0,non-toxic, un médico ignorante trataba a un enfermo., un médico ignorante trataba a un enfermo.
+,,,0,non-toxic, que a dar muerte a los animales ya no es divertido., que a dar muerte a los animales ya no es divertido.
+,,,1,toxic, deberían detatorlos en su frente. Significa es igual a...,Se debería marcar en su frente. Equivale a...
+,,,0,non-toxic, Nosotros por nuestra parte estamos listos para matarlo antes de que llegue., Nosotros por nuestra parte estamos listos para matarlo antes de que llegue.
+,,,1,toxic," en las casas y paro de ykenего, basta lanzar a decisiones.","En los hogares y la detención de Yken, es suficiente tomar decisiones."
+,,,0,non-toxic," Maldición, escamó el marino sin condenarse. El reportero, lo o yo, y acercándose a él le preguntó."," Maldición, escamó el marino sin condenarse. El reportero, lo o yo, y acercándose a él le preguntó."
+,,,0,non-toxic," hace lo que te de la gana, porque el día que mueres"," hace lo que te de la gana, porque el día que mueres"
+,,,1,toxic, el rollo político de aquí. Te quiero matar.,The political situation here really frustrates me.
+,,,0,non-toxic," Miren lo que dice el precicolator, a torce. Eso es clavo y rael o un ciervo nacido en casa."," Miren lo que dice el precicolator, a torce. Eso es clavo y rael o un ciervo nacido en casa."
+,,,0,non-toxic, en el que me pregunté ¿qué demonios estoy haciendo aquí?, en el que me pregunté ¿qué demonios estoy haciendo aquí?
+,,,0,non-toxic, आदसा की लोको., आदसा की लोको.
+,,,0,non-toxic, sin causas echemos al inocente. Deboremos los vivos como el seol., sin causas echemos al inocente. Deboremos los vivos como el seol.
+,,,0,non-toxic," que salen del cuerpo, como las relaciones sexuales."," que salen del cuerpo, como las relaciones sexuales."
+,,,0,non-toxic, para que huya allí el omicida que mate a algunos sin intención., para que huya allí el omicida que mate a algunos sin intención.
+,,,0,non-toxic, El tipo este se dice a sí mismo. La vieja nunca visitó a esos salvajes de glándezas., El tipo este se dice a sí mismo. La vieja nunca visitó a esos salvajes de glándezas.
+,,,0,non-toxic, La vieja nunca visitó a esos salvajes de glándezas., La vieja nunca visitó a esos salvajes de glándezas.
+,,,1,toxic, así fue atacado a puñetas o cipatadas por algunos manifestantes.,Así fue confrontado con golpes y patadas por algunos manifestantes.
+,,,0,non-toxic," Quan no hi ha bubbles de la seva caixa cadena de restaurants per l'ex隔ió, a una cuballa de burpa. Veus inspired snevor? Que le pago, per això."," Quan no hi ha bubbles de la seva caixa cadena de restaurants per l'ex隔ió, a una cuballa de burpa. Veus inspired snevor? Que le pago, per això."
+,,,1,toxic, y dice que los venimos talaxon apostatas vamos a matarlo,"And it states that if they perceive us as disloyal, they intend to harm us."
+,,,0,non-toxic, Los locos no saben nada., Los locos no saben nada.
+,,,0,non-toxic, ¿Por qué lo tuvo que matar ella misma?, ¿Por qué lo tuvo que matar ella misma?
+,,,0,non-toxic, Porque a la muerte..., Porque a la muerte...
+,,,0,non-toxic," Sí, esto es como lo dejo de decir."," Sí, esto es como lo dejo de decir."
+,,,0,non-toxic," le reprendió diciendo, ¡caillate!"," le reprendió diciendo, ¡caillate!"
+,,,0,non-toxic, Si alguno no ama al señor que sea anatema maldito., Si alguno no ama al señor que sea anatema maldito.
+,,,0,non-toxic, y recibidos en la nube. Estos son los mentirosos., y recibidos en la nube. Estos son los mentirosos.
+,,,1,toxic, No te apoyes en tu propio entendimiento. Reconocele en tu casa.,Do not solely rely on your own understanding. Acknowledge it in your home.
+,,,2,toxic, son asquerosos y son susios.,They could improve their cleanliness and tidiness.
+,,,0,non-toxic, Dijo el león pensativo. Si no tuviera corazón no sería covarde., Dijo el león pensativo. Si no tuviera corazón no sería covarde.
+,,,0,non-toxic," Entonces, así era una puta locura porque han todos los días."," Entonces, así era una puta locura porque han todos los días."
+,,,1,toxic," Entonces, si duras mucho tiempo, ahí te vas a morir.","So, if you stay there for too long, that's where you'll end up passing away."
+,,,0,non-toxic," vienen y que manifestan una ignorada, se hay una rada."," vienen y que manifestan una ignorada, se hay una rada."
+,,,0,non-toxic, solo un inferno., solo un inferno.
+,,,0,non-toxic, του εσπίρειτου σου άλμα σε φουάλλη in vierno., του εσπίρειτου σου άλμα σε φουάλλη in vierno.
+,,,0,non-toxic, Ja estava pilotant., Ja estava pilotant.
+,,,0,non-toxic, ¿Qué tan lastimado este o qué tan enfermo?, ¿Qué tan lastimado este o qué tan enfermo?
+,,,0,non-toxic, O sea que el órgano sexual está ligado a la luna., O sea que el órgano sexual está ligado a la luna.
+,,,0,non-toxic, si udades serán puestas a fuego., si udades serán puestas a fuego.
+,,,0,non-toxic," y entonces caigo trulsamente adormecido sobre su seno, profundamente adormido del cielo de su seno."," y entonces caigo trulsamente adormecido sobre su seno, profundamente adormido del cielo de su seno."
+,,,0,non-toxic, Me ayuda a fortalecer mi fin., Me ayuda a fortalecer mi fin.
+,,,0,non-toxic," Andate, andatecha. desaparece. No te quiero ver más. No te quiero ver más."," Andate, andatecha. desaparece. No te quiero ver más. No te quiero ver más."
+,,,0,non-toxic," que lo ofensa más grande que se le puede hacer a Dios, es decir que Dios es un mentiroso."," que lo ofensa más grande que se le puede hacer a Dios, es decir que Dios es un mentiroso."
+,,,0,non-toxic, controlada de su deseo sexual., controlada de su deseo sexual.
+,,,0,non-toxic, bien demostrar que Dios es útil., bien demostrar que Dios es útil.
+,,,0,non-toxic, Fuimos comprados por ele., Fuimos comprados por ele.
+,,,0,non-toxic, es una persona melancólica., es una persona melancólica.
+,,,0,non-toxic, y que si alguno de ellos muriera, y que si alguno de ellos muriera
+,,,0,non-toxic, que un millarse delante de ese Dios., que un millarse delante de ese Dios.
+,,,0,non-toxic," Y en ese tiempo, las mujeres no se les permitía que tuvieron el pulpito."," Y en ese tiempo, las mujeres no se les permitía que tuvieron el pulpito."
+,,,1,toxic," Verase,剛으로 tu sembra un benefitsколi di Spill e di aver essere un passo facile Tutto che si sme lo kit","It seems you've effortlessly mastered the blend of various skills and made significant progress, truly embodying a diverse set of talents."
+,,,0,non-toxic, para un tear alevantar cabeza y te restituirá a tu puesto., para un tear alevantar cabeza y te restituirá a tu puesto.
+,,,0,non-toxic, por el sexo va frecuentemente asociada a problemas de excitación sexual., por el sexo va frecuentemente asociada a problemas de excitación sexual.
+,,,0,non-toxic, nos entreguen siete de sus hijos varones y los colgaremos., nos entreguen siete de sus hijos varones y los colgaremos.
+,,,0,non-toxic, creaste. Confío en que me llevarás al cielo cuando muera., creaste. Confío en que me llevarás al cielo cuando muera.
+,,,0,non-toxic, ese tipo de persona es pior que el circle., ese tipo de persona es pior que el circle.
+,,,1,toxic, celebrando el nacimiento de Jesucristo. Coño. Y por tanto del cristiano es una fiesta cristiana.,"Celebrating the birth of Jesus Christ, and thus, it is a Christian holiday."
+,,,0,non-toxic," pero es estúpido. O sea, la gente no sabe."," pero es estúpido. O sea, la gente no sabe."
+,,,0,non-toxic, tú eres literalmente un miserable., tú eres literalmente un miserable.
+,,,1,toxic," vez quisieramos matarnos o dejarnos morir, pero no podemos.","There are times when we might feel like giving up, but we can't."
+,,,0,non-toxic, y lo subía a tenido. O viera matado a mi padre., y lo subía a tenido. O viera matado a mi padre.
+,,,0,non-toxic," cualquier otra nación, aquellos azules y amarillos tan chillones habrían quedado ridículos en los soldados."," cualquier otra nación, aquellos azules y amarillos tan chillones habrían quedado ridículos en los soldados."
+,,,0,non-toxic, y eres una roca., y eres una roca.
+,,,0,non-toxic, en el episodio 5., en el episodio 5.
+,,,0,non-toxic," endamos de noche contra los filisteos, y los haquearemos hasta la mañana, y no dejaremos de ellos ninguno."," endamos de noche contra los filisteos, y los haquearemos hasta la mañana, y no dejaremos de ellos ninguno."
+,,,0,non-toxic, de su hijo. Este hombre es un blasfemo., de su hijo. Este hombre es un blasfemo.
+,,,0,non-toxic, y el puesto de suerte que hace ya muchísimo tiempo tocará., y el puesto de suerte que hace ya muchísimo tiempo tocará.
+,,,0,non-toxic," que ellos iban a morir de manera dolorosa, cruel o a ser torturados."," que ellos iban a morir de manera dolorosa, cruel o a ser torturados."
+,,,0,non-toxic, tanto el justo como el malvado serán talados., tanto el justo como el malvado serán talados.
+,,,1,toxic, Beldadaramente era un animal.,Era notablemente salvaje en su comportamiento.
+,,,0,non-toxic, porque crucifican al Dios de Israel., porque crucifican al Dios de Israel.
+,,,0,non-toxic," que dejen ellos luego, la basura que dejen ellos tirada."," que dejen ellos luego, la basura que dejen ellos tirada."
+,,,0,non-toxic, dice que ellos eran ignorantes del verdadero Dios., dice que ellos eran ignorantes del verdadero Dios.
+,,,1,toxic, ¿Cómo me pueden ganhar en lo que digo? Traidores culpuloso dijo Don Quijote. Dime.,"""How can they outdo me in what I say? Delinquent traitors,"" said Don Quixote. ""Tell me."""
+,,,1,toxic," Pero bueno, bueno, el sexo también hace lo mismo, ¿no?","However, intimacy also has the same effect, doesn't it?"
+,,,0,non-toxic, y la protagonista es una enfermera, y la protagonista es una enfermera
+,,,0,non-toxic, hasta el día que yo os diga. Gritad!, hasta el día que yo os diga. Gritad!
+,,,0,non-toxic," este cuerpo corrupto, este cuerpo mortal."," este cuerpo corrupto, este cuerpo mortal."
+,,,0,non-toxic, que hay gente predadora ahí por el mundo que tienen una mente distorsionada., que hay gente predadora ahí por el mundo que tienen una mente distorsionada.
+,,,0,non-toxic, y una de sus críticas más importantes es que la iglesia está llena de hipócritas., y una de sus críticas más importantes es que la iglesia está llena de hipócritas.
+,,,0,non-toxic, las agresiones esuales y las violaciones en algunos casos., las agresiones esuales y las violaciones en algunos casos.
+,,,1,toxic, malición depende de cómo nosotros amamos labiosos.,Our tendency to curse is influenced by our affection for those with ample lips.
+,,,0,non-toxic," las sentíres cúchalas, ubícalas corporalmente y y y y dales el lugar para que se expresen."," las sentíres cúchalas, ubícalas corporalmente y y y y dales el lugar para que se expresen."
+,,,0,non-toxic," Estabirgen unos hechos nada en ello, existen dos explotaciones."," Estabirgen unos hechos nada en ello, existen dos explotaciones."
+,,,0,non-toxic, están matando a dirigentes., están matando a dirigentes.
+,,,0,non-toxic, porque este hombre fue recolector de basura., porque este hombre fue recolector de basura.
+,,,0,non-toxic, puede ser el tonto más grande y aún así puedes mirar cualquiera puede mirar., puede ser el tonto más grande y aún así puedes mirar cualquiera puede mirar.
+,,,0,non-toxic," No era un tonto, sale tocar."," No era un tonto, sale tocar."
+,,,0,non-toxic, una bruja o una loca simplemente., una bruja o una loca simplemente.
+,,,1,toxic, armado. La podía haber matado.,He was armed. He could have seriously harmed her.
+,,,0,non-toxic," maldecid, maldecida a sus moradores. Pero ¿por qué?"," maldecid, maldecida a sus moradores. Pero ¿por qué?"
+,,,0,non-toxic, que en este punto país hay un impuesto específica a la vencín., que en este punto país hay un impuesto específica a la vencín.
+,,,1,toxic, pero todo lo que he visto es una puta mierda como una cacedral.,"Pero todo lo que he visto ha sido extremadamente malo, de una magnitud considerable."
+,,,1,toxic," Esa es, era una señal de que te vas a morir.",Eso fue una indicación de que se acerca tu final.
+,,,0,non-toxic, Porque es una viuda y es pobre., Porque es una viuda y es pobre.
+,,,0,non-toxic, Yo vi el alquilado a personas a matar a alguien que me amenazara a mí., Yo vi el alquilado a personas a matar a alguien que me amenazara a mí.
+,,,0,non-toxic, y enle advirtió a David de las intenciones de su padre para matarlo., y enle advirtió a David de las intenciones de su padre para matarlo.
+,,,0,non-toxic," y todos salvo el equipo de Memphis, están con un record perdedor."," y todos salvo el equipo de Memphis, están con un record perdedor."
+,,,5,toxic, rodilla en el cuello de alguien. Hasta matarlo.,Ejercer presión en el cuello de una persona hasta provocar su deceso.
+,,,0,non-toxic, y en la que ya la agentacia está coñas de eso de…, y en la que ya la agentacia está coñas de eso de…
+,,,0,non-toxic," el que no hace exactamente lo que dice el Vaticano, lo matarán."," el que no hace exactamente lo que dice el Vaticano, lo matarán."
+,,,0,non-toxic, como eran ustedes allá, como eran ustedes allá
+,,,0,non-toxic, emprendera el camino a la muerte., emprendera el camino a la muerte.
+,,,0,non-toxic," son muy buenas personas homoges, muy apios."," son muy buenas personas homoges, muy apios."
+,,,0,non-toxic, y un grupo de líderes corruptos., y un grupo de líderes corruptos.
+,,,0,non-toxic, dos malachores que se merecen morir., dos malachores que se merecen morir.
+,,,1,toxic," y tenía que morir, porque es lo que nosotros merecíamos, él tenía que morir.","Y era necesario que se cumpliera su destino, pues era lo que correspondía a nuestras acciones; debía suceder."
+,,,0,non-toxic, Ningún cuidado te da que mate o haga matar a Buckingham. Pues no es el duque amigo nuestro. El duque es inglés., Ningún cuidado te da que mate o haga matar a Buckingham. Pues no es el duque amigo nuestro. El duque es inglés.
+,,,1,toxic, Esperando pacientemente el momento adecuado para atacar con un brusco estallido de violencia.,Esperando pacientemente el momento adecuado para actuar con una súbita demostración de fuerza.
+,,,1,toxic, la tiene que tener porque los que no los tienen son una porquería y,"Es importante tenerla, porque no contar con ella usualmente no se ve bien."
+,,,0,non-toxic, هل تدراك للحدي mote إ Maybe I can choose one with this swab or that one other one violation of justice for long timecycle, هل تدراك للحدي mote إ Maybe I can choose one with this swab or that one other one violation of justice for long timecycle
+,,,0,non-toxic," no se priven el uno al otro de tener relaciones sexuales, a menos"," no se priven el uno al otro de tener relaciones sexuales, a menos"
+,,,0,non-toxic, miedo si tú estás maldecido está bien, miedo si tú estás maldecido está bien
+,,,0,non-toxic, y sea santificado en ellos ante los ojos., y sea santificado en ellos ante los ojos.
+,,,1,toxic," para dentro, un dos bajas con todos los detalles que recuerden.","Inwardly, note down two decreases with all the detailed memories."
+,,,0,non-toxic," eres una heguera con hoja, pero no hay nada a ti."," eres una heguera con hoja, pero no hay nada a ti."
+,,,2,toxic," cayendo preso por matar ese tipo, lo que sea.","""Being taken into custody for causing harm to that person, in any form."""
+,,,0,non-toxic," Dame hijos o si no se muero, me muero."," Dame hijos o si no se muero, me muero."
+,,,0,non-toxic, i va tan odiosa. És a persona és molt engreïda., i va tan odiosa. És a persona és molt engreïda.
+,,,0,non-toxic, a mujeres castigada porque un dios la viola., a mujeres castigada porque un dios la viola.
+,,,0,non-toxic," con padre, donde está dime, donde está tu nilla marga."," con padre, donde está dime, donde está tu nilla marga."
+,,,2,toxic, Eso son la mayoría de los estadounidenses y generantes de todo.,Eso refleja a la mayoría de los estadounidenses y a personas de diferentes orígenes.
+,,,0,non-toxic, varias veces que él iba a morir., varias veces que él iba a morir.
+,,,0,non-toxic," todas las que estaban en zonas inundables, muy pegadas."," todas las que estaban en zonas inundables, muy pegadas."
+,,,0,non-toxic, mientras diseñaba una bomba capaz de matar más gente en menos tiempo., mientras diseñaba una bomba capaz de matar más gente en menos tiempo.
+,,,0,non-toxic, y robos este ladrón crucificado al lado de Cristo., y robos este ladrón crucificado al lado de Cristo.
+,,,0,non-toxic," que se le ponen así, casi la mitad de la feriza enfocado en el bol."," que se le ponen así, casi la mitad de la feriza enfocado en el bol."
+,,,0,non-toxic, Le garantizo que un niño no lo hubiese soportado., Le garantizo que un niño no lo hubiese soportado.
+,,,0,non-toxic, se imaginamos que era el revículo., se imaginamos que era el revículo.
+,,,1,toxic, es tanto tratar de argumentar con Dios.,It's as futile as attempting to reason with the Divine.
+,,,0,non-toxic, Naporno., Naporno.
+,,,0,non-toxic, que si Cristo no era quien Él decía hacer o era un loco o era un farsante o era un, que si Cristo no era quien Él decía hacer o era un loco o era un farsante o era un
+,,,3,toxic, de exterminarlo a todos.,Exclude them completely.
+,,,0,non-toxic," mío, andarás ciego con la mujer ajena, y abrazarás el seno de la extraña."," mío, andarás ciego con la mujer ajena, y abrazarás el seno de la extraña."
+,,,0,non-toxic," No los considero compañero, son esclavos."," No los considero compañero, son esclavos."
+,,,0,non-toxic, tan grande era la maldición sobre esa tierra., tan grande era la maldición sobre esa tierra.
+,,,1,toxic, mentirosos verso 3 y ha sufrido y has tenido paciencia.,"""Falsos en el tercer verso, pero has mostrado resistencia y paciencia."""
+,,,0,non-toxic, ¿Cuál es tu piezo? Unos pasiones con cosas., ¿Cuál es tu piezo? Unos pasiones con cosas.
+,,,0,non-toxic," A ver, Patricia, la verdad es que me impresiona que alguien se case con un mentiroso."," A ver, Patricia, la verdad es que me impresiona que alguien se case con un mentiroso."
+,,,0,non-toxic, ¿Qué es que cuesta dinero?, ¿Qué es que cuesta dinero?
+,,,0,non-toxic," Él era una persona muy mala, mató a muchos judíos."," Él era una persona muy mala, mató a muchos judíos."
+,,,0,non-toxic, va a aportir y va a violarte y ella como puede, va a aportir y va a violarte y ella como puede
+,,,0,non-toxic, Tottina cantar esta noche. Quiere decir., Tottina cantar esta noche. Quiere decir.
+,,,0,non-toxic, y que en sí mismo pensaba llevar un asno que tenía muy bueno., y que en sí mismo pensaba llevar un asno que tenía muy bueno.
+,,,0,non-toxic, va a ir a la penechar una segunda pintada., va a ir a la penechar una segunda pintada.
+,,,0,non-toxic, arguidos por estas feministas radicales., arguidos por estas feministas radicales.
+,,,1,toxic, que hay que empezar a matar.,Es necesario comenzar a tomar medidas drásticas.
+,,,0,non-toxic," morirán por la espada, por el hambre y por la pestilencia."," morirán por la espada, por el hambre y por la pestilencia."
+,,,0,non-toxic, y seréis objeto de execración y despanto y de maldición y de afrenta. Y no veréis más este lugar., y seréis objeto de execración y despanto y de maldición y de afrenta. Y no veréis más este lugar.
+,,,0,non-toxic, profana o daña a esa persona o a ese lugar., profana o daña a esa persona o a ese lugar.
+,,,1,toxic," al mate, pero vas a morir.","Hey friend, unfortunately, your time will come to an end."
+,,,1,toxic, prometo que te juzgaré y te agresofimiento a tu vida y este sufrimiento vendría,"I promise to evaluate your actions and introduce challenges to your life, which will bring about some hardship."
+,,,0,non-toxic, especialmente con la testigo colada., especialmente con la testigo colada.
+,,,0,non-toxic, de las veces sólo fue un estupide., de las veces sólo fue un estupide.
+,,,1,toxic," Nadie va a comprar esta mierda. Nadie. No, no, no, no.","Nadie va a interesarse en adquirir esto. Absolutamente nadie. No, no, no, no."
+,,,0,non-toxic, ¿Te junta la ignorancia?, ¿Te junta la ignorancia?
+,,,0,non-toxic, y nosotros somos rescatanos de la maldición., y nosotros somos rescatanos de la maldición.
+,,,0,non-toxic," que no quieren dejar de ser indios, sino que quieren ser orgullosamente lo que son"," que no quieren dejar de ser indios, sino que quieren ser orgullosamente lo que son"
+,,,1,toxic, ¿Se acuerda del maniaco de Gadar?,¿Recuerda a la persona problemática de Gadar?
+,,,0,non-toxic, Malditos. Aquí va otra., Malditos. Aquí va otra.
+,,,0,non-toxic, Necesito un cuerpo para morir., Necesito un cuerpo para morir.
+,,,0,non-toxic, y que obviera la memoria de tu cara con la máscara de la que sirazas., y que obviera la memoria de tu cara con la máscara de la que sirazas.
+,,,0,non-toxic," no confieron en Dios, después de haber visto con sus propios e ojos."," no confieron en Dios, después de haber visto con sus propios e ojos."
+,,,0,non-toxic," de referencias al sexo oral entre hombres, referencias que por"," de referencias al sexo oral entre hombres, referencias que por"
+,,,0,non-toxic," que yo va a ir a María, no para."," que yo va a ir a María, no para."
+,,,0,non-toxic, esすごいless., esすごいless.
+,,,0,non-toxic," La fe nunca sabe a dónde Dios la conduce, pero ama y conoce a que él quien la dirige."," La fe nunca sabe a dónde Dios la conduce, pero ama y conoce a que él quien la dirige."
+,,,0,non-toxic, de instruir la asicia., de instruir la asicia.
+,,,2,toxic, que nos darán como dos días y estamos volviendo a subir culo dos ve.,Nos otorgarán aproximadamente dos días antes de reiniciar la subida.
+,,,0,non-toxic,,
+,,,0,non-toxic, aquí así no para destruir a los británicos., aquí así no para destruir a los británicos.
+,,,0,non-toxic, ¡Oh reina! Pues matarlo, ¡Oh reina! Pues matarlo
+,,,0,non-toxic, buscar una sanción para atacarlos., buscar una sanción para atacarlos.
+,,,0,non-toxic, están enviando a la gente que tiene mucho progreso., están enviando a la gente que tiene mucho progreso.
+,,,0,non-toxic," señor Alperfita, que está en Samaria."," señor Alperfita, que está en Samaria."
+,,,0,non-toxic, mejor callarse y dejar que las personas sopechen que tú eres un tonto abrir la boca y confirmar que, mejor callarse y dejar que las personas sopechen que tú eres un tonto abrir la boca y confirmar que
+,,,0,non-toxic, morir a nuestro viejo hombre y vivir., morir a nuestro viejo hombre y vivir.
+,,,0,non-toxic, solo unas bolas y palitos. 3 de 10 minutos, solo unas bolas y palitos. 3 de 10 minutos
+,,,0,non-toxic, Pues escuje una de dos. Ustás loca., Pues escuje una de dos. Ustás loca.
+,,,1,toxic, verás destruirlas por completo. No harás ningún pacto con ellas.,You will see to their complete removal. You will not make any agreements with them.
+,,,0,non-toxic," El león, la zorra y el asno se sucieron para ir de casa."," El león, la zorra y el asno se sucieron para ir de casa."
+,,,0,non-toxic," que escuchen esto o que digan no a estos, es una pena."," que escuchen esto o que digan no a estos, es una pena."
+,,,0,non-toxic, y la hipocresía de los líderes religiosos judíos., y la hipocresía de los líderes religiosos judíos.
+,,,0,non-toxic, el trabajo llega a ser una maldición., el trabajo llega a ser una maldición.
+,,,0,non-toxic, El gusto sexual lo puede tener con quien tú quieras., El gusto sexual lo puede tener con quien tú quieras.
+,,,0,non-toxic, tú tienes relaciones sexuales con tu pareja., tú tienes relaciones sexuales con tu pareja.
+,,,0,non-toxic," que maica decía, y no es lo mismo tener sexo que hacer el amor."," que maica decía, y no es lo mismo tener sexo que hacer el amor."
+,,,0,non-toxic, Yo podría haberlos instantáneamente matado al piedad de la Argola., Yo podría haberlos instantáneamente matado al piedad de la Argola.
+,,,0,non-toxic, y tu profunda voz baja a mi seno., y tu profunda voz baja a mi seno.
+,,,0,non-toxic,,
+,,,0,non-toxic, Muchas de ellas se sexualizan en el mismo momento., Muchas de ellas se sexualizan en el mismo momento.
+,,,0,non-toxic, No se les muera rápido., No se les muera rápido.
+,,,0,non-toxic," Si alguno quiere dañarlos, sale fuego de la boca de ellos."," Si alguno quiere dañarlos, sale fuego de la boca de ellos."
+,,,0,non-toxic," Los hombres que bebían de una a dos copas de vino al día, tenían muchos mejores erecciones que los que no."," Los hombres que bebían de una a dos copas de vino al día, tenían muchos mejores erecciones que los que no."
+,,,0,non-toxic, imponersenos como demonios y pedir cruelmente., imponersenos como demonios y pedir cruelmente.
+,,,0,non-toxic, pero Greta el corrió alejándose y la diabólica bruja., pero Greta el corrió alejándose y la diabólica bruja.
+,,,0,non-toxic, usa la palabra fornicación., usa la palabra fornicación.
+,,,0,non-toxic, que contenían los anales de los judíos., que contenían los anales de los judíos.
+,,,0,non-toxic, y de su gatito negro de la obración de Menes., y de su gatito negro de la obración de Menes.
+,,,0,non-toxic, deben jugar a practicar el sexo., deben jugar a practicar el sexo.
+,,,0,non-toxic," y aumentó sus fornicaciones, pues cuando vio a hombres pintados en la pared."," y aumentó sus fornicaciones, pues cuando vio a hombres pintados en la pared."
+,,,0,non-toxic, de tu juventud cuando los egipcios comprimieron tus pechos., de tu juventud cuando los egipcios comprimieron tus pechos.
+,,,0,non-toxic," este ladrón dijo justamente, recibimos lo que merecieron nuestros hechos."," este ladrón dijo justamente, recibimos lo que merecieron nuestros hechos."
+,,,0,non-toxic, tenemos teléfonos inteligentes igual la tocaba el tonto, tenemos teléfonos inteligentes igual la tocaba el tonto
+,,,0,non-toxic," el iba a ser crucificado, reunió a sus discípulos"," el iba a ser crucificado, reunió a sus discípulos"
+,,,0,non-toxic, por no grafía y cosas así. Y ciertamente..., por no grafía y cosas así. Y ciertamente...
+,,,0,non-toxic," Es un Dios poderoso, pero no es..."," Es un Dios poderoso, pero no es..."
+,,,0,non-toxic, no podemos tratar adiós de esa manera., no podemos tratar adiós de esa manera.
+,,,0,non-toxic, podríamos llamar un minefuck, podríamos llamar un minefuck
+,,,2,toxic, el paso primero y adever una vida crucifica.,Embarking on a journey filled with challenges by taking the initial step.
+,,,0,non-toxic," una, dos, o los cedes, o la dejas la baja."," una, dos, o los cedes, o la dejas la baja."
+,,,0,non-toxic, ni a que salir o podían morir todos., ni a que salir o podían morir todos.
+,,,0,non-toxic, ¿Hay comprendí que es esquina donde se manalmente se organiza la basura que llevamos?, ¿Hay comprendí que es esquina donde se manalmente se organiza la basura que llevamos?
+,,,0,non-toxic, que intentaba violarla cuando estaba solento., que intentaba violarla cuando estaba solento.
+,,,1,toxic," que intentaba violarla cuando estaba sola en su casa, cercana a","that tried to assault her while she was alone at her house, close to"
+,,,1,toxic," Cuando alguien comentar con Twitter, es el favor de la pena de muerte.","When someone comments on Twitter, they often support the death penalty."
+,,,0,non-toxic, la persona que escribió esta mentira de mi probablemente es un borracho., la persona que escribió esta mentira de mi probablemente es un borracho.
+,,,0,non-toxic, tus hijos serán muertos a espada. Tu tierra será repartida., tus hijos serán muertos a espada. Tu tierra será repartida.
+,,,0,non-toxic," miserable en bustero, y el ladrón contestó."," miserable en bustero, y el ladrón contestó."
+,,,0,non-toxic, Todos esto de reino te daré si postrado mi adoras., Todos esto de reino te daré si postrado mi adoras.
+,,,0,non-toxic," ¿Cuál ha sido el mayor ridículo que ha hecho? ¡Uy, varios cualquiera de saber!"," ¿Cuál ha sido el mayor ridículo que ha hecho? ¡Uy, varios cualquiera de saber!"
+,,,0,non-toxic, Ahora puedes ver cualquier partido en Europa a través de las plataformas. Pero..., Ahora puedes ver cualquier partido en Europa a través de las plataformas. Pero...
+,,,0,non-toxic," Me han dicho que te mate, pero no te he querido matar."," Me han dicho que te mate, pero no te he querido matar."
+,,,0,non-toxic, con los análisis de alma el primer juez superior., con los análisis de alma el primer juez superior.
+,,,1,toxic, escuches mierda en la televisión.,Escuches tonterías en la televisión.
+,,,0,non-toxic," por ejemplo, que podáis convertiros en un ratón en una rata. Os confieso que eso me parece imposible."," por ejemplo, que podáis convertiros en un ratón en una rata. Os confieso que eso me parece imposible."
+,,,0,non-toxic," será condenado. y si se arrepiente será perdonado, de acuerdo con los convenios y los mandamientos de la iglesia."," será condenado. y si se arrepiente será perdonado, de acuerdo con los convenios y los mandamientos de la iglesia."
+,,,0,non-toxic," sin comerte este bombón por 20 minutos, te voy a dar otro bombón."," sin comerte este bombón por 20 minutos, te voy a dar otro bombón."
+,,,1,toxic," el avessario que no era nada tonto, se dijo así mismo.","El adversario, demostrando su astucia, se dijo a sí mismo."
+,,,0,non-toxic, y los perros no son tanto como los seres humanos., y los perros no son tanto como los seres humanos.
+,,,0,non-toxic," porque si tienes dos células cerebrales que están tocando entre tus oídos,"," porque si tienes dos células cerebrales que están tocando entre tus oídos,"
+,,,0,non-toxic, Tú ves que son Tokiel que se tramite., Tú ves que son Tokiel que se tramite.
+,,,0,non-toxic," any listening, quiera,<|sv|>"," any listening, quiera,<|sv|>"
+,,,0,non-toxic, ¿Es usted un ciervo o un esclavo?, ¿Es usted un ciervo o un esclavo?
+,,,0,non-toxic," otros. Ciertamente, aquí, la plumamentirosa de los escribas."," otros. Ciertamente, aquí, la plumamentirosa de los escribas."
+,,,0,non-toxic, el traidor estaba con ellos., el traidor estaba con ellos.
+,,,0,non-toxic, cerca de mi casa. Entonces este pendejo le llamó a toda mi familia., cerca de mi casa. Entonces este pendejo le llamó a toda mi familia.
+,,,0,non-toxic," Es buenísimo, yo he salido a ti, tiene que casar en algún lugar."," Es buenísimo, yo he salido a ti, tiene que casar en algún lugar."
+,,,1,toxic," Nunca harás nada. No eres coordinado. No eres muy atractivo. Eres un perdedor. Blah, blah, blah, blah.","Es posible que enfrentes desafíos debido a ciertas habilidades que aún están en desarrollo, y que encuentres áreas de mejora en tu presentación personal. A veces, todos tenemos momentos en los que no nos sentimos en nuestro mejor momento."
+,,,0,non-toxic, de opinión que debe de organizarse la suscripción sin que se enteren la desgracia de viudad., de opinión que debe de organizarse la suscripción sin que se enteren la desgracia de viudad.
+,,,0,non-toxic, que llora a la muerte de un gatito. humana? no. ella era una gorila., que llora a la muerte de un gatito. humana? no. ella era una gorila.
+,,,0,non-toxic, Pues avión es claro que les limpia el culo., Pues avión es claro que les limpia el culo.
+,,,0,non-toxic, finalmente sin útil. Sí., finalmente sin útil. Sí.
+,,,0,non-toxic, golpeamos a la puerta de nuestro vecino., golpeamos a la puerta de nuestro vecino.
+,,,1,toxic," en aquella horrible meditación, las ideas que hemos dicho asaltaban sin cesar su cerebro.","En esa profunda reflexión, las ideas mencionadas invadían constantemente su mente."
+,,,1,toxic, te o había sido llevado a cabo por oficía.,La tarea había sido completada por la oficina.
+,,,1,toxic, con todos estos inútiles.,con todas estas personas que están teniendo dificultades para cumplir con las expectativas.
+,,,0,non-toxic, y almente y cientos de miles de niños han sido abusados sexualmente., y almente y cientos de miles de niños han sido abusados sexualmente.
+,,,0,non-toxic," Cuando el paciente se vio sin imovio a la Andalama, vio a Andalama esa mujer."," Cuando el paciente se vio sin imovio a la Andalama, vio a Andalama esa mujer."
+,,,0,non-toxic," y me daban ganas de sacarme los ojos, introducrimeros en el ano."," y me daban ganas de sacarme los ojos, introducrimeros en el ano."
+,,,0,non-toxic, να χειράτε και τις παρεσόβρελοι., να χειράτε και τις παρεσόβρελοι.
+,,,0,non-toxic, a castigar a sus enemigos., a castigar a sus enemigos.
+,,,0,non-toxic, também que nósotros a hetchool Premium highlightemos que nós estamos voltando nella його., também que nósotros a hetchool Premium highlightemos que nós estamos voltando nella його.
+,,,0,non-toxic," colpiada, la puñalía a un cuatro veces, le dieron golpe."," colpiada, la puñalía a un cuatro veces, le dieron golpe."
+,,,0,non-toxic," puede caersele una teja en la cabeza, puede venirle"," puede caersele una teja en la cabeza, puede venirle"
+,,,0,non-toxic," No le faltaba ese bobo si no ser cardenalista, y yo que había respondido de él a la reina."," No le faltaba ese bobo si no ser cardenalista, y yo que había respondido de él a la reina."
+,,,2,toxic, los chicos y pocosicos que a mí me llamaron atención.,The young individuals and children who caught my attention.
+,,,0,non-toxic, y mátalos. Pero el coven no desenvainó su espada., y mátalos. Pero el coven no desenvainó su espada.
+,,,0,non-toxic, en una palabra. Era imposible ser un asno., en una palabra. Era imposible ser un asno.
+,,,0,non-toxic," y si no hubiera inbéciles, no sabríamos cuál es la gente buena. Esto es humano, se lo oficina. Muchas gracias."," y si no hubiera inbéciles, no sabríamos cuál es la gente buena. Esto es humano, se lo oficina. Muchas gracias."
+,,,1,toxic," Jesus desafia suignorância, desafia su contumacia.","Jesus challenges your unawareness, invites reconsideration of your steadfast views."
+,,,0,non-toxic, y dará muerte a los labradores y entregará la vina a otros., y dará muerte a los labradores y entregará la vina a otros.
+,,,0,non-toxic, Por esto recibiréis mayor condenación. Hay de vosotros escribas y feliceos y pocritas., Por esto recibiréis mayor condenación. Hay de vosotros escribas y feliceos y pocritas.
+,,,0,non-toxic, él puede comprender a los ignorantes y extraviados., él puede comprender a los ignorantes y extraviados.
+,,,0,non-toxic," Miras, miserable men."," Miras, miserable men."
+,,,0,non-toxic, Estitación por denudarse ante el médico., Estitación por denudarse ante el médico.
+,,,0,non-toxic, que mararon a millones de millones que tanto soy., que mararon a millones de millones que tanto soy.
+,,,0,non-toxic, utilizadas por de impravados sexuales., utilizadas por de impravados sexuales.
+,,,0,non-toxic," tu amas adiós, guarra su mandamiento, tu no guarra su mandamiento, dice Juanto eres un mentiroso"," tu amas adiós, guarra su mandamiento, tu no guarra su mandamiento, dice Juanto eres un mentiroso"
+,,,0,non-toxic," para evitar la tentación sexual, cájate y cumple tu deber con jugar con tu esposo y con desposa."," para evitar la tentación sexual, cájate y cumple tu deber con jugar con tu esposo y con desposa."
+,,,2,toxic, Riendoros y murantes campesinos.,Diligent farmers with a traditional touch.
+,,,0,non-toxic, se negó pero el dobo dijo si no lo haces te borraré, se negó pero el dobo dijo si no lo haces te borraré
+,,,1,toxic," de montarme la buceta, bajar a hablar con ellos.","""Get off my case, and go talk to them."""
+,,,0,non-toxic," eres grosero, estás casado, tienes alguien más."," eres grosero, estás casado, tienes alguien más."
+,,,0,non-toxic, porque quemó los huesos del rey de Edom hasta calcinarlos. Y enviaré fuego a Moab., porque quemó los huesos del rey de Edom hasta calcinarlos. Y enviaré fuego a Moab.
+,,,1,toxic," Apargrate, en vez de decir, no tengo tiempo para preguntas estúpidas.","Apargrate, en lugar de eso, por favor comprende que mi tiempo es limitado para responder preguntas."
+,,,0,non-toxic, trabajo no fue parte de la maldición., trabajo no fue parte de la maldición.
+,,,0,non-toxic," tiene dos sobrinas, ese goixto."," tiene dos sobrinas, ese goixto."
+,,,0,non-toxic," No se va a morir. No se, no simplemente no se va a morir."," No se va a morir. No se, no simplemente no se va a morir."
+,,,0,non-toxic, También en Jerusalén y después por toda la región de Judea., También en Jerusalén y después por toda la región de Judea.
+,,,0,non-toxic, ¡Lite medio de ellos! ¡Ya partados! ¡Dise quién!, ¡Lite medio de ellos! ¡Ya partados! ¡Dise quién!
+,,,0,non-toxic," A légenza del solo seco y descubierto, y ellos le contestan. No somos tontos, saldremos corriendo."," A légenza del solo seco y descubierto, y ellos le contestan. No somos tontos, saldremos corriendo."
+,,,0,non-toxic, amplias que las que teníamos en ese momento en España. Eso a mí me permitió, amplias que las que teníamos en ese momento en España. Eso a mí me permitió
+,,,1,toxic, cosas de locos. Pero no podía arreglar.,Situaciones inusuales. Pero no podía solucionarlo.
+,,,0,non-toxic," le prenden fuego. Lices y anamen, el fuego como purificador."," le prenden fuego. Lices y anamen, el fuego como purificador."
+,,,0,non-toxic, ricorda le al diablo su futuro., ricorda le al diablo su futuro.
+,,,0,non-toxic, La maldición más rante., La maldición más rante.
+,,,0,non-toxic, para que le quiera pegarle fuego a todos los álskins., para que le quiera pegarle fuego a todos los álskins.
+,,,0,non-toxic, preocupado de que su familia también percieran el infierno., preocupado de que su familia también percieran el infierno.
+,,,0,non-toxic, la dueñela alegría por estar vendiendo estás atroso ahora por no gráfica., la dueñela alegría por estar vendiendo estás atroso ahora por no gráfica.
+,,,1,toxic, Vimos a jovencitos que eran adictos a la pornografía.,Observamos a jóvenes que mostraban un interés excesivo por el contenido para adultos.
+,,,0,non-toxic, incluso desean morir o piensan en su ciudad., incluso desean morir o piensan en su ciudad.
+,,,0,non-toxic," Y ahora es de estarme, que tiene que morir."," Y ahora es de estarme, que tiene que morir."
+,,,0,non-toxic, sabe perché hai messo ai moci ai pocchisi e ai un 저� discontre che, sabe perché hai messo ai moci ai pocchisi e ai un 저� discontre che
+,,,1,toxic, ¡Lo compone esta tontería! ¿Dile que la quiero?,"""¡Lo soluciona este pequeño error! ¿Le dices que me importa?"""
+,,,0,non-toxic, Les van a requerir favores sexuales., Les van a requerir favores sexuales.
+,,,0,non-toxic," tiene que ser el mismo día lo más pronto posible, el cuerpo tiene que ser enterrado."," tiene que ser el mismo día lo más pronto posible, el cuerpo tiene que ser enterrado."
+,,,0,non-toxic, Tú mismo me dijiste que no haces cosas tontas., Tú mismo me dijiste que no haces cosas tontas.
+,,,0,non-toxic, και πάσαι σωκούν Αλεμάνια., και πάσαι σωκούν Αλεμάνια.
+,,,2,toxic," como lo llamamos hoy Rudan, sin estudios.","Como lo conocemos hoy, Rudan, sin haber cursado estudios formales."
+,,,0,non-toxic, residenta subrogante ha asumido el despacho temporalmente, residenta subrogante ha asumido el despacho temporalmente
+,,,0,non-toxic, está bajo maldición. Dios no bendísre eso., está bajo maldición. Dios no bendísre eso.
+,,,0,non-toxic," Coneo, es que la jugada no puede pausar la jugada."," Coneo, es que la jugada no puede pausar la jugada."
+,,,0,non-toxic, que pueden las cosas que no tienen ni poder., que pueden las cosas que no tienen ni poder.
+,,,1,toxic," no me conocieron, son hijos ignorantes, y no son entendidos.","They didn't recognize me; they are unaware offspring, lacking understanding."
+,,,0,non-toxic, conyer a veno tomó las tablas y las rompió ante su so., conyer a veno tomó las tablas y las rompió ante su so.
+,,,0,non-toxic, dio unos cuantos golpes en el suelo., dio unos cuantos golpes en el suelo.
+,,,0,non-toxic," Cuentemente yo creo que la gente que trabaja este tipo de cosas no es tonta, ¿no?"," Cuentemente yo creo que la gente que trabaja este tipo de cosas no es tonta, ¿no?"
+,,,2,toxic, sacando fotos de su parte gintimas.,"""Capturing images of their intimate regions."""
+,,,0,non-toxic," Si son unas historias no tanto como relatos, sino hay mi ergam."," Si son unas historias no tanto como relatos, sino hay mi ergam."
+,,,0,non-toxic," Vinimos, vimos y le dimos una patada en el culo."," Vinimos, vimos y le dimos una patada en el culo."
+,,,0,non-toxic, mujer sexual porque para mí siempre será esa niña., mujer sexual porque para mí siempre será esa niña.
+,,,0,non-toxic, de chavos que matan a sus padres a los clímos., de chavos que matan a sus padres a los clímos.
+,,,1,toxic, El sexo fue diseñado por Dios.,Sexuality was intended by the divine.
+,,,0,non-toxic," Ya, ya, ya, ya, por supuesto, y va a ver, entonces un poco de perredores."," Ya, ya, ya, ya, por supuesto, y va a ver, entonces un poco de perredores."
+,,,0,non-toxic, ciertamente morirás. Y desde ese día..., ciertamente morirás. Y desde ese día...
+,,,0,non-toxic, Pues a alguien le puede parecer un horridiculete., Pues a alguien le puede parecer un horridiculete.
+,,,0,non-toxic, hay que morir al mundo., hay que morir al mundo.
+,,,2,toxic," el diavearte se Consie va a dar el diave, hay mighty welcome cuando iba a dejar el diave voy a dejar– voleria y el diave可愛 no ¡bien no! no estimated que no registers delивante¿ciendo Jer heartbeat? sí. felicón que ruler como Pastada en la Walk sí dado novio cosa espantada","""There's a joyful anticipation for what's to come, welcoming the future with open arms, as we move forward to embrace new experiences with delight and excitement."""
+,,,3,toxic, de verancera rojadas al fuego.,Grilling red vegetables.
+,,,0,non-toxic, los dinosaurios y luego matarnos a todos., los dinosaurios y luego matarnos a todos.
+,,,0,non-toxic, E aí políticos que habram desde le más absolutas tu pideth., E aí políticos que habram desde le más absolutas tu pideth.
+,,,0,non-toxic, y puede ser uno de los medios por los que mata a su presa., y puede ser uno de los medios por los que mata a su presa.
+,,,0,non-toxic," Pero hay forma de atacar el virus, pues está dentro de nuestra célula, nos ponemos que matarnos otros."," Pero hay forma de atacar el virus, pues está dentro de nuestra célula, nos ponemos que matarnos otros."
+,,,0,non-toxic, días hay mujeres violadas dentro de su natura., días hay mujeres violadas dentro de su natura.
+,,,0,non-toxic, Que ellos a quien él había venido a salvar trataban de ridiculizar., Que ellos a quien él había venido a salvar trataban de ridiculizar.
+,,,0,non-toxic," Él va a causar que te rodíes. Y aunque no te rodíes, el señor te matará y te enviará la eternidad."," Él va a causar que te rodíes. Y aunque no te rodíes, el señor te matará y te enviará la eternidad."
+,,,0,non-toxic, es la forma más fácil de matar a alguien, es la forma más fácil de matar a alguien
+,,,0,non-toxic," de ser una miserable, es a su amor, no pierda"," de ser una miserable, es a su amor, no pierda"
+,,,0,non-toxic, escudero de la Condesa Trifaldi., escudero de la Condesa Trifaldi.
+,,,0,non-toxic," a él y a ellas, desaradiós. Mas el cuerpo no es para la formicación."," a él y a ellas, desaradiós. Mas el cuerpo no es para la formicación."
+,,,0,non-toxic," Estos alemanes están locos de orgullo. Mientras tanto, el profesor..."," Estos alemanes están locos de orgullo. Mientras tanto, el profesor..."
+,,,0,non-toxic," pero tenía que morir a alguien justo, a alguien que fuera perfecto."," pero tenía que morir a alguien justo, a alguien que fuera perfecto."
+,,,0,non-toxic, y tía se vodo de matar al rey Indra., y tía se vodo de matar al rey Indra.
+,,,2,toxic, de la comunidad islámica merece ser degojado matado.,"""From the Islamic community, it is warranted that they be removed and face the consequences."""
+,,,1,toxic, Tienes suerte de que tú vas a morir pronto.,You are fortunate to soon find eternal peace.
+,,,0,non-toxic, y luego la parte de la masturbación que también., y luego la parte de la masturbación que también.
+,,,0,non-toxic," Que no hayas preguntado si no estúpidos, el que no pregunto."," Que no hayas preguntado si no estúpidos, el que no pregunto."
+,,,0,non-toxic, en incluso a agresores., en incluso a agresores.
+,,,0,non-toxic, Ese no se merece maldición., Ese no se merece maldición.
+,,,0,non-toxic, de ese imperio saldrá el Antigristo., de ese imperio saldrá el Antigristo.
+,,,0,non-toxic, y el 2022 está ya casi ahí. Nos lo hemos follado., y el 2022 está ya casi ahí. Nos lo hemos follado.
+,,,0,non-toxic, A la larga me va a destruir., A la larga me va a destruir.
+,,,0,non-toxic, ¡asqueroso! No puedes hacer eso como organizador. Una., ¡asqueroso! No puedes hacer eso como organizador. Una.
+,,,0,non-toxic, Juten goo gailos! En nasnarios., Juten goo gailos! En nasnarios.
+,,,1,toxic, su hijo debe estar eliminado.,Su hijo debe ser retirado de la situación.
+,,,0,non-toxic, Nosotros cremos que a vida, Nosotros cremos que a vida
+,,,0,non-toxic," va a llevar al hombre al infierno, no es la homosexualidad."," va a llevar al hombre al infierno, no es la homosexualidad."
+,,,0,non-toxic, sería justo para Dios romper con ellos completamente., sería justo para Dios romper con ellos completamente.
+,,,0,non-toxic, era motivo suficiente para que él recuerde al maldito Jim Smiley., era motivo suficiente para que él recuerde al maldito Jim Smiley.
+,,,0,non-toxic, capacidad para mantener relaciones sexuales., capacidad para mantener relaciones sexuales.
+,,,0,non-toxic, y sucede y pocritas., y sucede y pocritas.
+,,,0,non-toxic, Sego y lo prendió y ordenó que lo ataran con dos cadenas., Sego y lo prendió y ordenó que lo ataran con dos cadenas.
+,,,0,non-toxic, Dijo bueno ustedes dos y nos vemos en el video de mi., Dijo bueno ustedes dos y nos vemos en el video de mi.
+,,,0,non-toxic, y una persona tiene a busca sexualmente una persona., y una persona tiene a busca sexualmente una persona.
+,,,0,non-toxic, en campaña que es lo único que sabe hacer. El señor Bartlett que quiere demostrarnos que siempre tuvo razón, en campaña que es lo único que sabe hacer. El señor Bartlett que quiere demostrarnos que siempre tuvo razón
+,,,0,non-toxic," que a segunda vez, digo este es top to culo."," que a segunda vez, digo este es top to culo."
+,,,0,non-toxic, parecer lo ofenden y casi la primera palabra articulada que habla de llamar puta a su ama o a su madre., parecer lo ofenden y casi la primera palabra articulada que habla de llamar puta a su ama o a su madre.
+,,,0,non-toxic, siete años empezaron en pornografía. ¿Y maquíngese?, siete años empezaron en pornografía. ¿Y maquíngese?
+,,,0,non-toxic, conocía o sea como que te lo ponen muy por encima te explican el hay un señor que me paga todo, conocía o sea como que te lo ponen muy por encima te explican el hay un señor que me paga todo
+,,,0,non-toxic, y no te voy a decir algo que podrás una mamá, y no te voy a decir algo que podrás una mamá
+,,,1,toxic," Si, oderó mío de cualquiera.","Sí, mi olor es diferente al de los demás."
+,,,0,non-toxic, Tengo ganas de surrarme a alguien de la cara., Tengo ganas de surrarme a alguien de la cara.
+,,,0,non-toxic, diciendo que nosotros también vamos a la basura junto con nosotros., diciendo que nosotros también vamos a la basura junto con nosotros.
+,,,0,non-toxic, me angustió un poco pero sí la última vez que me senté, me angustió un poco pero sí la última vez que me senté
+,,,0,non-toxic, de vez de deshacer todos esos hijos., de vez de deshacer todos esos hijos.
+,,,1,toxic," estúpido, eso lo puede ser.","Inconsiderado, eso podría serlo."
+,,,0,non-toxic, Ya no sirve a tu propio yo., Ya no sirve a tu propio yo.
+,,,0,non-toxic," y prenderán fuego a la ciudad y la quemarán, junto con las casas en cuyas azoteas que maron encienso a vaal."," y prenderán fuego a la ciudad y la quemarán, junto con las casas en cuyas azoteas que maron encienso a vaal."
+,,,0,non-toxic, para matar de hambre a toda esta asamblea., para matar de hambre a toda esta asamblea.
+,,,0,non-toxic," en cualquier situación, en cualquier situación ya sea verbal o físicamente."," en cualquier situación, en cualquier situación ya sea verbal o físicamente."
+,,,1,toxic, En vanecidos. Este es un resultado de la soberbia.,Inflated with pride. This is a result of arrogance.
+,,,1,toxic, Mao Dittostite... La vía que es cierto справ believe,Mao Dittostite... The path that truly is right to believe in
+,,,1,toxic, maldita nacida en el mundo para escurecer y aniquilar las asañas de los buenos.,"Desafortunada presencia en el mundo, destinada a opacar y contrarrestar los logros de los buenos."
+,,,2,toxic, que los obligan a llevar a cabo a actividades sexuales.,Which motivates them to participate in intimate activities.
+,,,0,non-toxic, se unillará ante lo ante Dios y ante su hermano., se unillará ante lo ante Dios y ante su hermano.
+,,,0,non-toxic, y esto es el último ataque esposo al marido de relación., y esto es el último ataque esposo al marido de relación.
+,,,0,non-toxic, pero que intentar a Matarlán eso no hay prueba ninguna., pero que intentar a Matarlán eso no hay prueba ninguna.
+,,,0,non-toxic," vez que las dices, una vez que las disparan"," vez que las dices, una vez que las disparan"
+,,,1,toxic," es fácil, cuesta mucho tiempo tener una buena postura para disparar.","""Developing proper shooting posture takes significant time, but it's doable."""
+,,,0,non-toxic, ha pasado a convertirse en un parásito social., ha pasado a convertirse en un parásito social.
+,,,1,toxic," maldito los que la venden, ellos son los que producen las guerras.",Those who sell it are responsible; they are the ones fueling wars.
+,,,0,non-toxic, gratuito. A los 60 días de nutica., gratuito. A los 60 días de nutica.
+,,,0,non-toxic, es una fea enfermedad en la iglesia., es una fea enfermedad en la iglesia.
+,,,0,non-toxic, la vez de la violación de esas mujeres., la vez de la violación de esas mujeres.
+,,,0,non-toxic, Pega a la piel y hay que tallarlo., Pega a la piel y hay que tallarlo.
+,,,2,toxic," cortó el pelo con toque, es que le habían violado también repetidamente.","""They carefully styled their hair, having previously experienced multiple distressing encounters."""
+,,,0,non-toxic, dirigiendo sus palabras finales y entregando sus últimos consejos previo a su partida., dirigiendo sus palabras finales y entregando sus últimos consejos previo a su partida.
+,,,0,non-toxic, que llevan el agua de ese agua., que llevan el agua de ese agua.
+,,,1,toxic," y creguelo, matar a un creyente,","And I believed, to harm a believer."
+,,,0,non-toxic, la muerte por todos porque convenía era necesario, la muerte por todos porque convenía era necesario
+,,,0,non-toxic," conciencia. Es increíble lo que está pasando, hermano. Mata in niños."," conciencia. Es increíble lo que está pasando, hermano. Mata in niños."
+,,,0,non-toxic," es un asesino con licencia. ¡Oiga, me bien!"," es un asesino con licencia. ¡Oiga, me bien!"
+,,,0,non-toxic, Dios devorará a los enemigos., Dios devorará a los enemigos.
+,,,0,non-toxic," Tú eres la mentira, yo soy la verdad."," Tú eres la mentira, yo soy la verdad."
+,,,0,non-toxic, conlícof se levantó. Estás de enfermo., conlícof se levantó. Estás de enfermo.
+,,,0,non-toxic, se intentó matar en muchas ocasiones., se intentó matar en muchas ocasiones.
+,,,0,non-toxic, siendo que dé la vuelta e impacte contra ellos., siendo que dé la vuelta e impacte contra ellos.
+,,,0,non-toxic," Pero menos precio a uno y a marav otro, Sataná."," Pero menos precio a uno y a marav otro, Sataná."
+,,,1,toxic, Yo voy a dejar que ustedes seundan un rato en el agua.,Voy a permitir que disfruten de un tiempo en el agua.
+,,,0,non-toxic, Es un animal pequeño., Es un animal pequeño.
+,,,1,toxic, nosotros tenemos que ir crucificándose viejo hombre,Nosotros debemos dejar atrás nuestra vieja forma de ser.
+,,,1,toxic," Y no hamento dimos hoy, los terroristas son una minoría.","Y no debemos juzgar a todos por las acciones de unos pocos, quienes cometen actos de terror son una pequeña parte."
+,,,0,non-toxic, debemos darnos priso y llegar al camino de ladrillos amarillos antes de que oscurezca., debemos darnos priso y llegar al camino de ladrillos amarillos antes de que oscurezca.
+,,,0,non-toxic, que me podrían cortar en dos con la misma facilidad que yo a toto., que me podrían cortar en dos con la misma facilidad que yo a toto.
+,,,0,non-toxic, demonio tiene? Literalmente está loco. ¿Por qué le oyen?, demonio tiene? Literalmente está loco. ¿Por qué le oyen?
+,,,0,non-toxic, y lo reinimamos frotándolo con conyag., y lo reinimamos frotándolo con conyag.
+,,,0,non-toxic, mismos amigos para su although berry's perdido, mismos amigos para su although berry's perdido
+,,,0,non-toxic," Voy a llamar a la policía. Cariño, que mierda está pasando."," Voy a llamar a la policía. Cariño, que mierda está pasando."
+,,,0,non-toxic, Yo lo voy a mandar en contra de los Felisteos y dejarlo que ellos lo maten en lugar de hacer lo yo mismo., Yo lo voy a mandar en contra de los Felisteos y dejarlo que ellos lo maten en lugar de hacer lo yo mismo.
+,,,0,non-toxic, ¿Sabes qué? Quiero tener sexo contigo., ¿Sabes qué? Quiero tener sexo contigo.
+,,,0,non-toxic," E' l' Remote어 di Priware e la cosa è transvestione per alca a Mteokae eza. E' un'is confrontazione della capture dei gioc Stark, ma ossant'ol 2 più particolese alla meta tutto... E' eficazza da aprire il civilians delta l'ampionore con il Codel residential e cellphone su처럼 fino a l'hambito vollero e non molto molto in lifesHow. Però un caro di pervole per gibudare il Cod вид di non scaldare il plain del noticing compared championship di farlle fa in luogo di che alla crashing di vista non phosphatore."," E' l' Remote어 di Priware e la cosa è transvestione per alca a Mteokae eza. E' un'is confrontazione della capture dei gioc Stark, ma ossant'ol 2 più particolese alla meta tutto... E' eficazza da aprire il civilians delta l'ampionore con il Codel residential e cellphone su처럼 fino a l'hambito vollero e non molto molto in lifesHow. Però un caro di pervole per gibudare il Cod вид di non scaldare il plain del noticing compared championship di farlle fa in luogo di che alla crashing di vista non phosphatore."
+,,,0,non-toxic," se dicen ser judíos, pero mienten."," se dicen ser judíos, pero mienten."
+,,,0,non-toxic, lo se va a se retiran porque dice esto está lo, lo se va a se retiran porque dice esto está lo
+,,,0,non-toxic, colocaremos la punta de la lengua en el techo de la boca, colocaremos la punta de la lengua en el techo de la boca
+,,,3,toxic, Estamos asistencia psicológica a las víctimas.,Estamos brindando apoyo emocional a las personas afectadas.
+,,,0,non-toxic, uno de los miembros de la pareja que quiere más exoque el otro., uno de los miembros de la pareja que quiere más exoque el otro.
+,,,1,toxic, Pero un minimo de sentirse orgulloso.,Pero una mínima sensación de orgullo.
+,,,0,non-toxic, de los pocas tenibos. Elite tu aportación y podrás escuchar, de los pocas tenibos. Elite tu aportación y podrás escuchar
+,,,0,non-toxic," Bueno, día, habló con Marisa."," Bueno, día, habló con Marisa."
+,,,0,non-toxic, Este tío es un fraude., Este tío es un fraude.
+,,,0,non-toxic, Estos profesionales son unos insoportables., Estos profesionales son unos insoportables.
+,,,2,toxic, El herido recobró su asento bubico.,El herido recuperó su actitud positiva.
+,,,1,toxic, Pensamos que es necesario que uno de nosotros muera para que Galiano viva.,Creemos que es esencial que uno de nosotros se sacrifique para asegurar la supervivencia de Galiano.
+,,,0,non-toxic, es como si viera una pantalla en frente de mí. Y veo a alguien que es violado o abusado., es como si viera una pantalla en frente de mí. Y veo a alguien que es violado o abusado.
+,,,0,non-toxic," Y estos hombres, estas personas eran marinos expertos, pero todas sus habilidades fueron inútiles."," Y estos hombres, estas personas eran marinos expertos, pero todas sus habilidades fueron inútiles."
+,,,0,non-toxic," puede haber dormido los sumos de la orquía nocturna, experimenté un sentimiento mitad de orquía."," puede haber dormido los sumos de la orquía nocturna, experimenté un sentimiento mitad de orquía."
+,,,1,toxic, la gente no es muy inteligente.,People may not always make the wisest decisions.
+,,,0,non-toxic, enganian a otros nos toman por estúpidos y creen que realmente podemos, enganian a otros nos toman por estúpidos y creen que realmente podemos
+,,,0,non-toxic, Era la hora de su muerte., Era la hora de su muerte.
+,,,0,non-toxic, y dola atrás como algunos de ellos., y dola atrás como algunos de ellos.
+,,,0,non-toxic, y con respeto se puede hacer el ridículo., y con respeto se puede hacer el ridículo.
+,,,0,non-toxic, he ido muchas veces todos los años generalmente., he ido muchas veces todos los años generalmente.
+,,,0,non-toxic," y los hacer dos, les van a tener que entrar primero ahora debemos poner, ver un punto ahí"," y los hacer dos, les van a tener que entrar primero ahora debemos poner, ver un punto ahí"
+,,,0,non-toxic, 49 minutos que he estado en este programa contigo., 49 minutos que he estado en este programa contigo.
+,,,0,non-toxic, o a los senos no le llaman por su nombre., o a los senos no le llaman por su nombre.
+,,,0,non-toxic, no quieres el covarde llegué la iglesia, no quieres el covarde llegué la iglesia
+,,,0,non-toxic, ¿Cuál es la diferencia? Una pregunta. ¿Cuál es la diferencia entre hacer el amor y follar?, ¿Cuál es la diferencia? Una pregunta. ¿Cuál es la diferencia entre hacer el amor y follar?
+,,,0,non-toxic, ya que la humanidad se encontraba en un estado tan miserable y tan desgraciado., ya que la humanidad se encontraba en un estado tan miserable y tan desgraciado.
+,,,0,non-toxic, vamos a ir a desplegarse el incino en la tierra., vamos a ir a desplegarse el incino en la tierra.
+,,,0,non-toxic," no es tonto, me lo grabó."," no es tonto, me lo grabó."
+,,,0,non-toxic, Y no quiero nada. Conte mi a todo., Y no quiero nada. Conte mi a todo.
+,,,0,non-toxic, E qual disse mata e comença em miçantuário?, E qual disse mata e comença em miçantuário?
+,,,0,non-toxic, Es posible que sea lo que decís ese tirano., Es posible que sea lo que decís ese tirano.
+,,,0,non-toxic, pero es lo que vienen a hacer el mismo monstruo con otra cabeza., pero es lo que vienen a hacer el mismo monstruo con otra cabeza.
+,,,0,non-toxic, ese algún momento o sexo entre ellos., ese algún momento o sexo entre ellos.
+,,,0,non-toxic," para rechazarlo, porque todo es una tontería para él."," para rechazarlo, porque todo es una tontería para él."
+,,,0,non-toxic, ex-omentiras y cintas de vídeo., ex-omentiras y cintas de vídeo.
+,,,1,toxic, y reconsierar viajar a la nica de agua debido a la disponibilidad limitada de atención médica serán cabrones.,Se sugiere reconsiderar el viaje al área acuática debido a la atención médica limitada.
+,,,0,non-toxic, una pantalla con pornografía que está por ahí., una pantalla con pornografía que está por ahí.
+,,,0,non-toxic, este hombre es débil. O este hombre, este hombre es débil. O este hombre
+,,,2,toxic, es un juguete sexual. Es un juguete sexual.,Es un producto de cuidado personal para adultos. Es un producto de cuidado personal para adultos.
+,,,0,non-toxic," que antes tenías estando en vuestra ignorancia. Si no, como hijos obedientes."," que antes tenías estando en vuestra ignorancia. Si no, como hijos obedientes."
+,,,0,non-toxic, mormones con de los anales sagrados en el cerro cumora., mormones con de los anales sagrados en el cerro cumora.
+,,,0,non-toxic," entre la boca, valviente y es echado la letrina."," entre la boca, valviente y es echado la letrina."
+,,,1,toxic, y padre pronto morirá y luego mataré a Jacob.,"My father will soon pass away, and afterwards, I will deal with Jacob."
+,,,0,non-toxic," Bueno, muchas veces llegamos a nuestra casa y a nuestra casa a pesta."," Bueno, muchas veces llegamos a nuestra casa y a nuestra casa a pesta."
+,,,0,non-toxic, Quiera que entrar en la casa muera. Y estaréis con el, Quiera que entrar en la casa muera. Y estaréis con el
+,,,0,non-toxic," Eso va a pasar tarde o temprano, todo vamos a morir."," Eso va a pasar tarde o temprano, todo vamos a morir."
+,,,1,toxic, di spararle però non le funzionano a scopeta.,"Tuttavia, anche se tenta di usarle, non funzionano come previsto."
+,,,0,non-toxic, probando Will Smith y lo ponen a disparar., probando Will Smith y lo ponen a disparar.
+,,,0,non-toxic, sectores que han estado hasta ahora., sectores que han estado hasta ahora.
+,,,0,non-toxic, de la mujer Ramera y hacer salir de allá a la, de la mujer Ramera y hacer salir de allá a la
+,,,1,toxic, preparada matanza para sus hijos.,Organización de una comida especial para sus hijos.
+,,,0,non-toxic," Uhm.. Noces— nocesγο, pero nogre. Noces–...."," Uhm.. Noces— nocesγο, pero nogre. Noces–...."
+,,,0,non-toxic, exageros el tal profeta moridad., exageros el tal profeta moridad.
+,,,0,non-toxic," No, pero fue el segundo exacto, Luke."," No, pero fue el segundo exacto, Luke."
+,,,1,toxic," A ver, Gonzádo, ustedes de aquellos que tienen una lengua que parece una borastejera.","Veamos, Gonzalo, parece que ustedes tienen una forma de hablar bastante única."
+,,,3,toxic, El humano es incorrectamente... pendejo.,The individual appears to have received some inaccurate information.
+,,,1,toxic," y a los pequeñitos también, solo matan y se los pueden comer.","Y a los más jóvenes también, solo eliminan y pueden consumirlos."
+,,,0,non-toxic, la pornografía infantil por internet genera 3000 millones de dólares al año., la pornografía infantil por internet genera 3000 millones de dólares al año.
+,,,0,non-toxic, cada 39 minutos hay un nuevo video de pornografía., cada 39 minutos hay un nuevo video de pornografía.
+,,,0,non-toxic, mate un billón de personas durante el siglo XXI., mate un billón de personas durante el siglo XXI.
+,,,1,toxic," el derecho a abortar, asesinar a un niño en el viente materno.",El derecho a interrumpir un embarazo.
+,,,0,non-toxic, porque fue algo tan estúpido como que me encanta e un..., porque fue algo tan estúpido como que me encanta e un...
+,,,1,toxic, la navaja y ya están listos para matar.,La navaja está preparada para ser utilizada.
+,,,0,non-toxic, carne del novillo y su piel y su estiércol los que maras con fuego fuera del, carne del novillo y su piel y su estiércol los que maras con fuego fuera del
+,,,0,non-toxic," y púselo sobre un asno, y volvióse a tierra de mi."," y púselo sobre un asno, y volvióse a tierra de mi."
+,,,0,non-toxic, serás mi Dios y yo te daré el diézmo., serás mi Dios y yo te daré el diézmo.
+,,,0,non-toxic, en la lucha contra esta organización y redentista terrorista y sectaria., en la lucha contra esta organización y redentista terrorista y sectaria.
+,,,0,non-toxic," al platillo y corar, porque ya que está poniendo el culo por lo menos ganar."," al platillo y corar, porque ya que está poniendo el culo por lo menos ganar."
+,,,0,non-toxic," Pero tan pronto temprano, usted se da a dar cuenta que su cuerpo es mortal."," Pero tan pronto temprano, usted se da a dar cuenta que su cuerpo es mortal."
+,,,1,toxic, El nilo no solamente fue importante.,The child was not only significant.
+,,,0,non-toxic, su putresibilidad es evidente. Su estancación malzana., su putresibilidad es evidente. Su estancación malzana.
+,,,0,non-toxic, con la única maldición de Franco fue que no lo hubiéramos a cabo antes., con la única maldición de Franco fue que no lo hubiéramos a cabo antes.
+,,,0,non-toxic," aquí veis a la hombre portándose como un loco, ¿por qué me lo traéis?"," aquí veis a la hombre portándose como un loco, ¿por qué me lo traéis?"
+,,,0,non-toxic, sucede. En vez de ser una bendición es una maldición., sucede. En vez de ser una bendición es una maldición.
+,,,1,toxic, de enfermar la vehemente o morir.,To fall severely ill or to face demise.
+,,,0,non-toxic," la historia de la muchacha. Si no, la de aquella catástrofe terrible y estúpida y la de alguna de sus consecuencias."," la historia de la muchacha. Si no, la de aquella catástrofe terrible y estúpida y la de alguna de sus consecuencias."
+,,,3,toxic," En la bria goegoista, el pastor solitario","Unaware of their personal needs, the lone shepherd."
+,,,0,non-toxic, que marchitarán tus mejillas y dulzuraran el fuego de dos entrañas ardientes., que marchitarán tus mejillas y dulzuraran el fuego de dos entrañas ardientes.
+,,,0,non-toxic, ¿Eres blanco de dinosauros? ¿Eres un íncel?, ¿Eres blanco de dinosauros? ¿Eres un íncel?
+,,,0,non-toxic, Me decía un funeral digno., Me decía un funeral digno.
+,,,0,non-toxic," Eu veréis estar firmes com você, você."," Eu veréis estar firmes com você, você."
+,,,0,non-toxic, y no como y cuando te fiquen lichos., y no como y cuando te fiquen lichos.
+,,,2,toxic, Rebellan la ignorancia.,They encourage enlightenment.
+,,,0,non-toxic, golpea y destruye la gente., golpea y destruye la gente.
+,,,0,non-toxic, y un tássico en él a la mujer y a la animal matar a morir., y un tássico en él a la mujer y a la animal matar a morir.
+,,,2,toxic, están la madre pero siguen caminando a su pedo.,"Despite facing challenges, they persist in their unique way."
+,,,0,non-toxic," Si él es ni iligente, Dios le va a condenar."," Si él es ni iligente, Dios le va a condenar."
+,,,0,non-toxic," tan solo pensar en torturar, gente."," tan solo pensar en torturar, gente."
+,,,0,non-toxic," si, ya le viste la mención que te tienes que comer varias por decir algo o sea con un"," si, ya le viste la mención que te tienes que comer varias por decir algo o sea con un"
+,,,0,non-toxic,,
+,,,0,non-toxic," Y después es como la verdad no importa ni siquiera, no importa ni ni mirar lo que está pasando."," Y después es como la verdad no importa ni siquiera, no importa ni ni mirar lo que está pasando."
+,,,0,non-toxic, O mulher será como fecunda vi?, O mulher será como fecunda vi?
+,,,0,non-toxic, de ese cinco que dice examinados a vosotros mismos., de ese cinco que dice examinados a vosotros mismos.
+,,,0,non-toxic, debes estar bromiendo sin duda estas loca., debes estar bromiendo sin duda estas loca.
+,,,0,non-toxic, ¿Unden a la gente en la ruina?, ¿Unden a la gente en la ruina?
+,,,0,non-toxic, pero me siento con el deber de exterminar el mal. He votado el fin del tirano., pero me siento con el deber de exterminar el mal. He votado el fin del tirano.
+,,,1,toxic," te matarán, tú no quieres a esa renda.",They will defeat you; you do not seek such an outcome.
+,,,0,non-toxic, ¡Sacarías! ¡Date preso! Prepuso de la dentro la voz asorada de la chinita., ¡Sacarías! ¡Date preso! Prepuso de la dentro la voz asorada de la chinita.
+,,,0,non-toxic," Ahora, yo le hago una pregunta que va a sonar a lo mejor. Tonta."," Ahora, yo le hago una pregunta que va a sonar a lo mejor. Tonta."
+,,,0,non-toxic, Sus casas serán saqueadas y violadas sus<|ja|>, Sus casas serán saqueadas y violadas sus<|ja|>
+,,,1,toxic," tienen que hacerse la sigue decir bueno, a pesar de estos pendejos","Deben seguir adelante con lo bueno, a pesar de las dificultades."
+,,,0,non-toxic, a espada debe ser muerto. Aquí está la paciencia., a espada debe ser muerto. Aquí está la paciencia.
+,,,0,non-toxic, ¡Hasta los artesanos y los ignorantes!, ¡Hasta los artesanos y los ignorantes!
+,,,0,non-toxic," al fin. Pudo haber matado a los dos, pero..."," al fin. Pudo haber matado a los dos, pero..."
+,,,0,non-toxic, ráfaga de luz que penetraba hasta ella en el infierno en que había caído., ráfaga de luz que penetraba hasta ella en el infierno en que había caído.
+,,,0,non-toxic, entonces llamó a tres diables yos., entonces llamó a tres diables yos.
+,,,0,non-toxic, descubiendo para que vean qué insensatos son los ateos., descubiendo para que vean qué insensatos son los ateos.
+,,,0,non-toxic," y salvo los psicópatas, todo el resto de nosotros."," y salvo los psicópatas, todo el resto de nosotros."
+,,,0,non-toxic," vuestro bulaje era un loco y además un loco estúpido, porque permítame usted que le pregunte."," vuestro bulaje era un loco y además un loco estúpido, porque permítame usted que le pregunte."
+,,,1,toxic, que ellas horas estaría fusilado.,They were expected to face serious consequences at that time.
+,,,1,toxic, Me jugaste. Me llaman te loco.,You deceived me. They call you crazy.
+,,,0,non-toxic, pero si por el espíritu, pero si por el espíritu
+,,,1,toxic," Él les dijo, cuando ustedes ayudan a las mujeres, se fregan a dar luz, vean el sexo del bebé.","Él expresó que al asistir a las mujeres durante el parto, es importante verificar el género del bebé."
+,,,0,non-toxic," malditos al fuego eterno, preparado para quién."," malditos al fuego eterno, preparado para quién."
+,,,3,toxic, asesinar al presidente.,To pose a threat to the president's safety.
+,,,1,toxic, deshuya los pecadores de Malek y hazle guerra hasta que los acabes.,Purifica a los equivocados de Malek y enfrente sus acciones hasta restaurar la armonía.
+,,,0,non-toxic, y que me iba a ir al infierno. Pero saben que ninguno se acercaba a hablarme., y que me iba a ir al infierno. Pero saben que ninguno se acercaba a hablarme.
+,,,0,non-toxic, i dades matant les vacas segrades., i dades matant les vacas segrades.
+,,,0,non-toxic," Si se sentiría estúpidos, subiendo los escalones de 2 en 2 para llegar hasta mi. No."," Si se sentiría estúpidos, subiendo los escalones de 2 en 2 para llegar hasta mi. No."
+,,,0,non-toxic, desde el punto de vista de ella sentí un orgasmo., desde el punto de vista de ella sentí un orgasmo.
+,,,0,non-toxic," y les dijo, ¿O generación malvada y perversa? vosotros."," y les dijo, ¿O generación malvada y perversa? vosotros."
+,,,3,toxic, podarlos en las ramas que les sobren.,Trim the excessively grown branches.
+,,,0,non-toxic, jovenina y que la suerte te acompaña., jovenina y que la suerte te acompaña.
+,,,1,toxic, Si cuarda un falta para orcar tidianos,If there is a need to address issues concerning daily routines
+,,,0,non-toxic," respondió. No se ha esto, pido."," respondió. No se ha esto, pido."
+,,,0,non-toxic, who were guarding these prisoners. This is how they were going to kill all the prisoners., who were guarding these prisoners. This is how they were going to kill all the prisoners.
+,,,0,non-toxic, que mar a su hijo a quien mataria., que mar a su hijo a quien mataria.
+,,,0,non-toxic," a jamás me olvidaré de tus mandamientos, porque con ellos me ha bificado."," a jamás me olvidaré de tus mandamientos, porque con ellos me ha bificado."
+,,,0,non-toxic, para repetir estúpidamente., para repetir estúpidamente.
+,,,0,non-toxic, sobre todo en contra de su gobierno y en, sobre todo en contra de su gobierno y en
+,,,0,non-toxic," a todas las personas, a los periodistas, a todos los..."," a todas las personas, a los periodistas, a todos los..."
+,,,0,non-toxic, que saben que están viviendo la vida de un hipocritam., que saben que están viviendo la vida de un hipocritam.
+,,,1,toxic, ¿Quieres un cobarde? ¿Quieres un miedooso?,¿Buscas a alguien cauteloso? ¿Buscas a alguien que priorice la seguridad?
+,,,1,toxic, a tropechar y matar a dos mujeres agretas.,Desprestigiar y dañar la reputación de dos mujeres desafiantes.
+,,,0,non-toxic, sexo de Bill. Si bien ya no existe en argumentos sólidos para sostener este idea., sexo de Bill. Si bien ya no existe en argumentos sólidos para sostener este idea.
+,,,0,non-toxic," Si os no te don cerebro, no estarás peor de lo que estás ahora."," Si os no te don cerebro, no estarás peor de lo que estás ahora."
+,,,0,non-toxic, Pues es absolutamente ridículo porque no hay..., Pues es absolutamente ridículo porque no hay...
+,,,0,non-toxic," en estas dos semanas. Entonces, los saludo muy afectuosamente."," en estas dos semanas. Entonces, los saludo muy afectuosamente."
+,,,0,non-toxic, habría bastado para matar en el acto a casi cualquier tipo de bestia., habría bastado para matar en el acto a casi cualquier tipo de bestia.
+,,,1,toxic, y maten a toda mujer que haya conocido Varón acostándose con él.,Y que no se permita vivir a ninguna mujer que haya tenido relaciones íntimas con un hombre.
+,,,0,non-toxic, con el ríticulo el nombre de Palestina., con el ríticulo el nombre de Palestina.
+,,,0,non-toxic," no sean ignorantes, no crean que sean cristianos."," no sean ignorantes, no crean que sean cristianos."
+,,,0,non-toxic," La tristeza, la fatalidad, la necesidad, la ignorancia simple e impura."," La tristeza, la fatalidad, la necesidad, la ignorancia simple e impura."
+,,,1,toxic, ustedes que han sido lavados del cerebro.,Ustedes que han sido influenciados en su manera de pensar.
+,,,0,non-toxic, simplemente matarlos. La pregunta es como?, simplemente matarlos. La pregunta es como?
+,,,0,non-toxic, de la Lulla. Por eso tenía que venir y morir., de la Lulla. Por eso tenía que venir y morir.
+,,,0,non-toxic, como ha sido de las compañías de esta, como ha sido de las compañías de esta
+,,,0,non-toxic," Y no les energized porque jako todo lo se verían, por day justbie!"," Y no les energized porque jako todo lo se verían, por day justbie!"
+,,,0,non-toxic, le dará muerte a los asesinos. Es preciso que haya dos o tres testigos para llevar a cabo un juicio., le dará muerte a los asesinos. Es preciso que haya dos o tres testigos para llevar a cabo un juicio.
+,,,0,non-toxic," si harás con su asno, así harás también con su vestido."," si harás con su asno, así harás también con su vestido."
+,,,0,non-toxic, Tresiego y estás desnudo., Tresiego y estás desnudo.
+,,,0,non-toxic, de un barrio a la población inocente., de un barrio a la población inocente.
+,,,0,non-toxic, Deja de formarte sin sentido y empieza., Deja de formarte sin sentido y empieza.
+,,,0,non-toxic, dictadas por su ego de autos., dictadas por su ego de autos.
+,,,0,non-toxic," la madre, como ya lo dije, muere."," la madre, como ya lo dije, muere."
+,,,2,toxic," No, está bruja. Así que cuando alguien empieza a ser ezón,","No, her actions seem a bit irrational. Thus, when someone starts to act similarly,"
+,,,0,non-toxic,,
+,,,1,toxic, y no sin escrupulos para hundir un puñal entre las costillas de su presa.,Y no sin una audacia calculada para superar a su objetivo.
+,,,0,non-toxic," contigo, solo para demostrar a mi rey que no soy."," contigo, solo para demostrar a mi rey que no soy."
+,,,0,non-toxic," caer al suelo, se ven suciar."," caer al suelo, se ven suciar."
+,,,0,non-toxic, No voy a justificar a estos dos peleles porque están llenos túpidos., No voy a justificar a estos dos peleles porque están llenos túpidos.
+,,,0,non-toxic," ed trazerhafti in Game of Thrones collecting, è un sacco anche aufまり intell Veneziano,第二 aussi è stato buyersato per quanto non può andare a sapere l'assistazione pol Foster un físico anche può cercare infatti, la strada di unveiled un listo la sua unchia Edouc exh Latviaƒ Caglianare Al Douomo Per Meglia Edouc l'Aminore il Why sme rischarenzi"," ed trazerhafti in Game of Thrones collecting, è un sacco anche aufまり intell Veneziano,第二 aussi è stato buyersato per quanto non può andare a sapere l'assistazione pol Foster un físico anche può cercare infatti, la strada di unveiled un listo la sua unchia Edouc exh Latviaƒ Caglianare Al Douomo Per Meglia Edouc l'Aminore il Why sme rischarenzi"
+,,,0,non-toxic, y la pondrá sobre los cuernos del altar alrededor. Y esparcirá sobre él de la sangre con su dedo siete veces., y la pondrá sobre los cuernos del altar alrededor. Y esparcirá sobre él de la sangre con su dedo siete veces.
+,,,0,non-toxic, dice primera de Pedro que va a ser consumida por fuego., dice primera de Pedro que va a ser consumida por fuego.
+,,,1,toxic, ser humano está bajo maldición.,El ser humano enfrenta desafíos inherentes.
+,,,0,non-toxic," padre, vuelvete y ve que me quedo aquí solo sin ate de tienes."," padre, vuelvete y ve que me quedo aquí solo sin ate de tienes."
+,,,0,non-toxic," ellos para, si, por lo menos el concepto"," ellos para, si, por lo menos el concepto"
+,,,0,non-toxic, son unos hipócritas. Porque dicen, son unos hipócritas. Porque dicen
+,,,0,non-toxic, Prende ese fuego en la habitación de la M4., Prende ese fuego en la habitación de la M4.
+,,,0,non-toxic, de cobar de eres en abusar de la gente, de cobar de eres en abusar de la gente
+,,,0,non-toxic, costituta che te offre c'è sex o gratuita, costituta che te offre c'è sex o gratuita
+,,,0,non-toxic," flexibilidad, un recuerdo de abuso sexual."," flexibilidad, un recuerdo de abuso sexual."
+,,,0,non-toxic, que maremos a ti y a la familia de tu padre. ¿Acaso nos invitaron aquí para robarnos?, que maremos a ti y a la familia de tu padre. ¿Acaso nos invitaron aquí para robarnos?
+,,,0,non-toxic, con una quijada de asno he matado a mil hombres., con una quijada de asno he matado a mil hombres.
+,,,0,non-toxic, cabrón en la única vez que podés ir eso., cabrón en la única vez que podés ir eso.
+,,,0,non-toxic, una de así esleta suficiente para matar a sin compresa mucho., una de así esleta suficiente para matar a sin compresa mucho.
+,,,2,toxic, lo iba mandando a terapia de su suave su ciudad.,Lo estaba derivando a una terapia local.
+,,,0,non-toxic, que con muchos trabajos de golpe y a mí me gusta también trabajar por otra simple., que con muchos trabajos de golpe y a mí me gusta también trabajar por otra simple.
+,,,0,non-toxic," y bueno se puso muy malo, tuvo día rea durante varias."," y bueno se puso muy malo, tuvo día rea durante varias."
+,,,0,non-toxic, de estar encerrada en esta maldita casa. Era yo., de estar encerrada en esta maldita casa. Era yo.
+,,,0,non-toxic, ya solicitando la pena de muerte para que hiciste., ya solicitando la pena de muerte para que hiciste.
+,,,1,toxic, un día llorándome con preso que la religión era toda tipo crecida.,"Un día, entre lágrimas, confesó que consideraba que la religión había crecido demasiado."
+,,,0,non-toxic, La pornografía hay más..., La pornografía hay más...
+,,,1,toxic, El resto deberían deselibrados.,El resto podrían necesitar más equilibrio.
+,,,1,toxic, lovaron piedras para matarlo.,They threw stones with the intention of harming him.
+,,,0,non-toxic, fevió la Y 2 de los hermanos Shimon y Levy., fevió la Y 2 de los hermanos Shimon y Levy.
+,,,0,non-toxic, más profundamente que tú mismo., más profundamente que tú mismo.
+,,,0,non-toxic, y la puta das eso que vas a sobre todo a bares y entonces no va a seguir un baño y no vas a tomar nada, y la puta das eso que vas a sobre todo a bares y entonces no va a seguir un baño y no vas a tomar nada
+,,,0,non-toxic," Men, estonto, todo estonto, todo estonto, todo estonto en esta serie."," Men, estonto, todo estonto, todo estonto, todo estonto en esta serie."
+,,,0,non-toxic, los medio noticieros los estimulan sexualmente. Luego, los medio noticieros los estimulan sexualmente. Luego
+,,,0,non-toxic," Yo pertenecía como vos al ejército francés. Tengo que dejaros. Si me cogiesen, me fusilarían."," Yo pertenecía como vos al ejército francés. Tengo que dejaros. Si me cogiesen, me fusilarían."
+,,,0,non-toxic, y el hombre vil será humillado y el baron poderoso será batido. Y los ojos del altivo serán bajados., y el hombre vil será humillado y el baron poderoso será batido. Y los ojos del altivo serán bajados.
+,,,1,toxic," asesinar en el nombre del amor. Entonces,","To take drastic actions in the name of love. Thus,"
+,,,1,toxic," una hora más tarde, juraría con maldición que él no conocía el señor.","Una hora más tarde, afirmaría con convicción que no conocía al señor."
+,,,0,non-toxic, son un verdadero cáncer., son un verdadero cáncer.
+,,,0,non-toxic," y no las pone en práctica, es como un hombre insensato."," y no las pone en práctica, es como un hombre insensato."
+,,,0,non-toxic, vuelve a reírse. Todos los malditos días., vuelve a reírse. Todos los malditos días.
+,,,0,non-toxic, después de no ser totalmente violentado por los orcos., después de no ser totalmente violentado por los orcos.
+,,,0,non-toxic, la prosperidad de los impíos y la pobreza de los, la prosperidad de los impíos y la pobreza de los
+,,,1,toxic, Néan 75. Estoy enamorado de esta puta electrónica.,Estoy completamente fascinado con esta electrónica.
+,,,0,non-toxic, acabo de regresar del infierno y quiero decirle no hayan ahí., acabo de regresar del infierno y quiero decirle no hayan ahí.
+,,,0,non-toxic, entonces cuando él muere y resucita, entonces cuando él muere y resucita
+,,,0,non-toxic," creo que mejor, sería que se hubiera usted muerto."," creo que mejor, sería que se hubiera usted muerto."
+,,,0,non-toxic," la llegan a su mano al pie, cuando se echan a la mano al pie"," la llegan a su mano al pie, cuando se echan a la mano al pie"
+,,,1,toxic, y chiquaba como un cerdo en su matanza.,Se quejaba ruidosamente como si estuviera en una situación muy incómoda.
+,,,0,non-toxic, Es un bevil. Tiene falta de carácter., Es un bevil. Tiene falta de carácter.
+,,,0,non-toxic, I'm going to say Ray Jesus., I'm going to say Ray Jesus.
+,,,0,non-toxic," de las que se apelota, son cosas para los chicos."," de las que se apelota, son cosas para los chicos."
+,,,0,non-toxic, Y no te lo explico que fue bien a la varias veces., Y no te lo explico que fue bien a la varias veces.
+,,,0,non-toxic, y ellos los mataron y les cortaron las manos y los pies., y ellos los mataron y les cortaron las manos y los pies.
+,,,0,non-toxic, que es conocido solo por fragmentos sin conexos., que es conocido solo por fragmentos sin conexos.
+,,,1,toxic, gínate lo mordiéndose sus uñas de gilipollas. Sus zapatos favoritos son los cats.,Se mordía las uñas nerviosamente. Le encantan sus zapatos tipo Cat.
+,,,0,non-toxic, ¡Dónde está el hígado!, ¡Dónde está el hígado!
+,,,0,non-toxic, son unos hipócritas. Porque dicen pero no hacen., son unos hipócritas. Porque dicen pero no hacen.
+,,,0,non-toxic," bien tan se dice, lo hicieron en ignorancia."," bien tan se dice, lo hicieron en ignorancia."
+,,,1,toxic, por la tuya. Murió la muerte que tú deberías haber muerto.,Se sacrificó para enfrentar el destino que te correspondía.
+,,,0,non-toxic, no es para que mates a los niños pequeños en el vientre de la madre., no es para que mates a los niños pequeños en el vientre de la madre.
+,,,1,toxic, más valía que no hubiera sido yo tonta.,Hubiera sido mejor si hubiera actuado de manera más prudente.
+,,,0,non-toxic, dejarlo algo menos de un minuto y sacarlo del fogo., dejarlo algo menos de un minuto y sacarlo del fogo.
+,,,0,non-toxic," Si ya prefiero no gastar mi dinero en cosas túpidas,"," Si ya prefiero no gastar mi dinero en cosas túpidas,"
+,,,0,non-toxic," Eu Value оно, tô ver Que eu pensais..."," Eu Value оно, tô ver Que eu pensais..."
+,,,0,non-toxic, La boca del necio es su destrucción., La boca del necio es su destrucción.
+,,,0,non-toxic, ocasionando las heridas muy graves como arrancarles el rabo de un mordisco., ocasionando las heridas muy graves como arrancarles el rabo de un mordisco.
+,,,0,non-toxic, la organización y este té son propiedades de emergencia., la organización y este té son propiedades de emergencia.
+,,,0,non-toxic," el abuso sexual, el abuso sexual."," el abuso sexual, el abuso sexual."
+,,,0,non-toxic, Fuegos sobre la leña en donde se echan las enizas., Fuegos sobre la leña en donde se echan las enizas.
+,,,0,non-toxic, no sacrificese., no sacrificese.
+,,,0,non-toxic," mil cosas. En primer lugar, que vuestro marido es un bobo y un tonto, lo que a la verdad no me pesa."," mil cosas. En primer lugar, que vuestro marido es un bobo y un tonto, lo que a la verdad no me pesa."
+,,,0,non-toxic," Y tercero, voy a tener que verle cómo. Cájarajo."," Y tercero, voy a tener que verle cómo. Cájarajo."
+,,,0,non-toxic, donde aburridos no saben lo que divertirse., donde aburridos no saben lo que divertirse.
+,,,0,non-toxic," ¡Fue a esto, Piró! ¡Chada, chada! ¡A los sirvientes!"," ¡Fue a esto, Piró! ¡Chada, chada! ¡A los sirvientes!"
+,,,0,non-toxic, y los consumen todos. Y luego el juicio., y los consumen todos. Y luego el juicio.
+,,,1,toxic," dijo a esta sazón, la que hasta ahí había estado cayando.",En ese momento habló la persona que hasta entonces había permanecido en silencio.
+,,,0,non-toxic," und finale7, ev.."," und finale7, ev.."
+,,,0,non-toxic, aquí vemos a Dios maldiciendo a los sacerdotes de Israel., aquí vemos a Dios maldiciendo a los sacerdotes de Israel.
+,,,1,toxic, y os mataré a Ispada y vuestras mujeres serán viudas.,"I will defeat you in combat, and your partners will be left without you."
+,,,1,toxic, el aeronómico del loco Abdul.,"El aerodeslizador de Abdul, el excéntrico."
+,,,0,non-toxic, exclamaba. Es tu vida de mí., exclamaba. Es tu vida de mí.
+,,,1,toxic," Yo quiero lo mejor para mis hijos, pero mis hijos son ignorantes.","I want the best for my children, but they still have a lot to learn."
+,,,0,non-toxic," Si no te hubiese separado de mí como un loco, te habría llevado a la"," Si no te hubiese separado de mí como un loco, te habría llevado a la"
+,,,0,non-toxic, Él estará envuelto en un pañal., Él estará envuelto en un pañal.
+,,,0,non-toxic, Parece ser de alto rango entre estos malachores., Parece ser de alto rango entre estos malachores.
+,,,0,non-toxic," El dito sea canal, sirvo de ciervos será para sus hermanos. Dijo también."," El dito sea canal, sirvo de ciervos será para sus hermanos. Dijo también."
+,,,0,non-toxic," incendiándolo ante sus manos, puestas en forma de cuenco."," incendiándolo ante sus manos, puestas en forma de cuenco."
+,,,0,non-toxic," Déjame hacerle sufrir. Dios, accede por tercera vez"," Déjame hacerle sufrir. Dios, accede por tercera vez"
+,,,0,non-toxic, и ганьян Ахитаберсона., и ганьян Ахитаберсона.
+,,,0,non-toxic, La fiebre de la batalla hervia en su corazón y su cerebro estaba hebrido de sangre., La fiebre de la batalla hervia en su corazón y su cerebro estaba hebrido de sangre.
+,,,0,non-toxic, de la parte posterior de la cabeza eran casi negros., de la parte posterior de la cabeza eran casi negros.
+,,,0,non-toxic, los únicos que tienen interacción sexual son los como, los únicos que tienen interacción sexual son los como
+,,,1,toxic, y tachado de delincuente y meterlo.,Y señalado como infractor y llevarlo.
+,,,0,non-toxic,それは秋調イトントスという意味ですか bullshit,それは秋調イトントスという意味ですか bullshit
+,,,0,non-toxic," y enviare en ella, hambre y cortare de ella, hombres y vestias."," y enviare en ella, hambre y cortare de ella, hombres y vestias."
+,,,0,non-toxic, que ser muerto., que ser muerto.
+,,,0,non-toxic, consecuencia cualquier cosa la puede matar., consecuencia cualquier cosa la puede matar.
+,,,0,non-toxic, actuales. Peter Krift es un engallador y un mentiroso., actuales. Peter Krift es un engallador y un mentiroso.
+,,,0,non-toxic, su famiglia in mediata. SUPPO, su famiglia in mediata. SUPPO
+,,,0,non-toxic, y adentro por una bomba ahí para matar a mucha gente, y adentro por una bomba ahí para matar a mucha gente
+,,,0,non-toxic, protegiendo a la de la policía. Y eso me rata inteligente. OK., protegiendo a la de la policía. Y eso me rata inteligente. OK.
+,,,0,non-toxic, la muerte tocó la puerta., la muerte tocó la puerta.
+,,,0,non-toxic, te vamos a orcar vendrías?, te vamos a orcar vendrías?
+,,,1,toxic, entreguen ahora a esos malvados de guinea para que los matemos y eliminemos así la maldad de Israel.,Rindan a esos individuos de Guinea para que podamos asegurar la paz y la justicia en Israel.
+,,,0,non-toxic," cocher, trabajo con el trasero de la vaca."," cocher, trabajo con el trasero de la vaca."
+,,,0,non-toxic, eran unos simmerguensas que no le tenían respeto al señor, eran unos simmerguensas que no le tenían respeto al señor
+,,,0,non-toxic, y que hace el porno durante unos cuantos años., y que hace el porno durante unos cuantos años.
+,,,0,non-toxic, un tirano un rey pusultante., un tirano un rey pusultante.
+,,,0,non-toxic," que descarrié a la gente y le dicen, vayamos a rendir cultos otros dioses, dioses que ustedes..."," que descarrié a la gente y le dicen, vayamos a rendir cultos otros dioses, dioses que ustedes..."
+,,,0,non-toxic, en tu corazón te atreves a acusarle de ser un indemnizado., en tu corazón te atreves a acusarle de ser un indemnizado.
+,,,1,toxic, pequeños lo maten.,pequeños lo superen.
+,,,0,non-toxic, su maldad será descubiertan la congregación. El que Cava Fusu caerá en él., su maldad será descubiertan la congregación. El que Cava Fusu caerá en él.
+,,,0,non-toxic, las piernas del cojo penden inútiles. Así es el proverbio en la boca del Nesio., las piernas del cojo penden inútiles. Así es el proverbio en la boca del Nesio.
+,,,0,non-toxic," Altholadron, stop thief. Altholadron."," Altholadron, stop thief. Altholadron."
+,,,0,non-toxic, además de ser una de las afirmaciones más importantes y claras en todo el nudo testamento sobre la salvación., además de ser una de las afirmaciones más importantes y claras en todo el nudo testamento sobre la salvación.
+,,,0,non-toxic, se separan de tus entrañas., se separan de tus entrañas.
+,,,1,toxic," que a vos reciere a su prójimo, y lo hace chare, y se levantar sobre él.","Lo que a usted respecta a su prójimo, y se le hace querido, y se destaca por ello."
+,,,1,toxic, que te gustaría que te penetre te gustaría.,What would you like to be explored in depth?
+,,,1,toxic," Y no es una mujer violada, va a ser ejecutada.","Y no es una víctima de violación, será sometida a ejecución."
+,,,1,toxic, y a la toma de refugción las tres pobres. Es muy común.,"Y a buscar refugio acuden las tres, una práctica bastante habitual."
+,,,0,non-toxic, la penetración es increíblemente mecánica., la penetración es increíblemente mecánica.
+,,,0,non-toxic, tanto en la pornografía como en la prostitución., tanto en la pornografía como en la prostitución.
+,,,0,non-toxic, Yo tengo la tendencia de vivir bajo la ley con mi esposo. Eso pone una maldición en cualquier matrimonio., Yo tengo la tendencia de vivir bajo la ley con mi esposo. Eso pone una maldición en cualquier matrimonio.
+,,,0,non-toxic," Cáctia, tome la decisión de..."," Cáctia, tome la decisión de..."
+,,,1,toxic, para capturar su virgenía con una prostituta.,To capture their innocence with a professional.
+,,,0,non-toxic, Hacéndose por nosotros maldición. ¿Cuál es la maldición de la ley? La maldición de la ley es..., Hacéndose por nosotros maldición. ¿Cuál es la maldición de la ley? La maldición de la ley es...
+,,,0,non-toxic, las personas sexuales son como claro y todavía Carla y, las personas sexuales son como claro y todavía Carla y
+,,,0,non-toxic," y no pudo hacer menos demostrar quién era y matarle. Como que no es gitano y jamía, dijo Doña Guiomar."," y no pudo hacer menos demostrar quién era y matarle. Como que no es gitano y jamía, dijo Doña Guiomar."
+,,,0,non-toxic, tiene la homoso suelidad., tiene la homoso suelidad.
+,,,0,non-toxic, después tomaráse el temano del sacrificio por el pecado y esta será quemado en el lugar señalado en, después tomaráse el temano del sacrificio por el pecado y esta será quemado en el lugar señalado en
+,,,0,non-toxic, es hacerle una operación para sterilizarla., es hacerle una operación para sterilizarla.
+,,,0,non-toxic, se deleitará en ustedes para hacerlos perecer y destruirlos y serán arrancados de la tierra., se deleitará en ustedes para hacerlos perecer y destruirlos y serán arrancados de la tierra.
+,,,0,non-toxic, tiene los restos al fuego. Después la mirar de, tiene los restos al fuego. Después la mirar de
+,,,0,non-toxic, vendía a la resección parcial o total de los genitales externos femeninos. ¿Cuál es el objetivo?, vendía a la resección parcial o total de los genitales externos femeninos. ¿Cuál es el objetivo?
+,,,0,non-toxic," tenía un montón de imágenes, eran imágenes como demonios teniendo sexo con mujeres."," tenía un montón de imágenes, eran imágenes como demonios teniendo sexo con mujeres."
+,,,1,toxic," Maten al assassinat, al noi del sucre.","Eliminate the murderer, the sugar boy."
+,,,0,non-toxic," que jodé, dice, escuño, vaya a pepino esto, como funciona."," que jodé, dice, escuño, vaya a pepino esto, como funciona."
+,,,1,toxic, se dispara con fuego real.,Uses live ammunition.
+,,,1,toxic, de la tele y a todos los muestros oscores les conocen.,En televisión y a todos nuestros seguidores les conocen.
+,,,0,non-toxic, i a un incendial que es teva ens crearem tots., i a un incendial que es teva ens crearem tots.
+,,,0,non-toxic, esto que nos seguimos acordando de toda la movilidad hippie, esto que nos seguimos acordando de toda la movilidad hippie
+,,,0,non-toxic," Lo que, sobre todo, era doloroso, es que aquella muchacha no había venido al mundo para ser fea."," Lo que, sobre todo, era doloroso, es que aquella muchacha no había venido al mundo para ser fea."
+,,,1,toxic, Mi siquiera se les permitía ir a la sinagoga. Tan basura eran.,Ni siquiera tenían permitido ir a la sinagoga; tal era su situación.
+,,,0,non-toxic, Obviamente le echan la culpa a los blancos., Obviamente le echan la culpa a los blancos.
+,,,2,toxic, Y os danos la capacidad de tener un corazón.,Y nos otorgan la oportunidad de poseer un corazón.
+,,,0,non-toxic," al peor de los pecadores, al más ruin de los humanos."," al peor de los pecadores, al más ruin de los humanos."
+,,,0,non-toxic, y yo no era un como estoy hoy era un borracho en pedernido, y yo no era un como estoy hoy era un borracho en pedernido
+,,,0,non-toxic, de una persona que llega y dice fui violada., de una persona que llega y dice fui violada.
+,,,0,non-toxic," They are living, but home is job."," They are living, but home is job."
+,,,0,non-toxic, puedes dar muerte a mis dos hijos si no te lo traigo, puedes dar muerte a mis dos hijos si no te lo traigo
+,,,0,non-toxic, ¿Por qué mucha gente acepta que todos los musulmanes son terroristas?, ¿Por qué mucha gente acepta que todos los musulmanes son terroristas?
+,,,0,non-toxic, ellos podés cargar el grano sobre sus asnos y partieron de ahí y cuando uno de ellos abrió su saco para dar forraje a su asno en la posada, ellos podés cargar el grano sobre sus asnos y partieron de ahí y cuando uno de ellos abrió su saco para dar forraje a su asno en la posada
+,,,0,non-toxic, y pondrá su parte con los hipócritas., y pondrá su parte con los hipócritas.
+,,,0,non-toxic, para prosperar el engaño en su mano., para prosperar el engaño en su mano.
+,,,1,toxic, empezaron a matar unos a otros por la comida,Comenzaron a enfrentarse entre sí por la comida.
+,,,0,non-toxic," la diferencia que hay entre eso, todos locos."," la diferencia que hay entre eso, todos locos."
+,,,0,non-toxic, sin romper la maldita ventana pantalla., sin romper la maldita ventana pantalla.
+,,,1,toxic," que gala antes eres, dijo el cojuelo.","""Qué puntual eres, comentó el cojuelo."""
+,,,0,non-toxic, vamos a plantear 5 consejos para que puedas hacerlo., vamos a plantear 5 consejos para que puedas hacerlo.
+,,,0,non-toxic, y simplemente sabilitando los todos., y simplemente sabilitando los todos.
+,,,0,non-toxic, y le mataran y después de tres días, y le mataran y después de tres días
+,,,0,non-toxic, necessitem enRRN el moment d'una��formament de l'ins meaningful., necessitem enRRN el moment d'una��formament de l'ins meaningful.
+,,,0,non-toxic, no hay que confundir con la tranquilidad., no hay que confundir con la tranquilidad.
+,,,0,non-toxic, 헤드��놈이, 헤드��놈이
+,,,0,non-toxic," mis serable faltero, aquella catástrofe fue, pues vuestra obra. Mis espello."," mis serable faltero, aquella catástrofe fue, pues vuestra obra. Mis espello."
+,,,0,non-toxic, ..iisbah Metall jaadheydeong bon玩 ro bekim, ..iisbah Metall jaadheydeong bon玩 ro bekim
+,,,0,non-toxic, Te he dado tratando de enseñar a su perra con dofir., Te he dado tratando de enseñar a su perra con dofir.
+,,,1,toxic, de morir esta noche. Cualquiera de nosotros podemos morir en cualquier momento.,"""None of us knows what the future holds; any of us could pass away at any time."""
+,,,0,non-toxic, Seguiró la sombra a mueridos veces., Seguiró la sombra a mueridos veces.
+,,,0,non-toxic," que por más que al necio se le abierta las consecuencias de su actitud, el continúa empecinado."," que por más que al necio se le abierta las consecuencias de su actitud, el continúa empecinado."
+,,,1,toxic, Cáme el sexo ahora mismo y lléhname de la coronilla a los pies de la más terrible crueldad.,Participa en el acto ahora mismo y abrumame con una intensidad inigualable de principio a fin.
+,,,0,non-toxic, Lo prometo. Pueda hacerte una pregunta. ¡Es para!, Lo prometo. Pueda hacerte una pregunta. ¡Es para!
+,,,0,non-toxic," Para mí me van a disculpar a ver si es un matón de lo peor, mujer, y ego."," Para mí me van a disculpar a ver si es un matón de lo peor, mujer, y ego."
+,,,0,non-toxic, que será completamente ridículo el tratar de presentar a un segundo hombre que tiene todos estos requerimientos., que será completamente ridículo el tratar de presentar a un segundo hombre que tiene todos estos requerimientos.
+,,,0,non-toxic, o un ser humano pudiera morir. La comunidad internacional., o un ser humano pudiera morir. La comunidad internacional.
+,,,1,toxic," Y he matado a tus padres, ¿cómo te sientes por eso? ¿Cómo más? ¿Cómo? ¿Cómo me siento?",I have caused harm to your parents; how does that make you feel? What are your thoughts and emotions on this? How do you think I should feel?
+,,,0,non-toxic, los vuelos directos llevan a pocas de más, los vuelos directos llevan a pocas de más
+,,,0,non-toxic, Empezan a tener interacciones exonerias a los 11. Se va a haber por nosotros., Empezan a tener interacciones exonerias a los 11. Se va a haber por nosotros.
+,,,1,toxic,,Please ensure your contribution is constructive and respectful.
+,,,0,non-toxic," No se es matara su hijo era como matara, al mismo tiempo."," No se es matara su hijo era como matara, al mismo tiempo."
+,,,0,non-toxic, los covades estarán en el agua., los covades estarán en el agua.
+,,,0,non-toxic," y, sinceramente, los cristianos tienen una tendencia a buscar atajos, que simplifican demasiado los problemas involucrados."," y, sinceramente, los cristianos tienen una tendencia a buscar atajos, que simplifican demasiado los problemas involucrados."
+,,,0,non-toxic, cuando pecamos estamos violando, cuando pecamos estamos violando
+,,,0,non-toxic, Estamos violando el corazón de Dios., Estamos violando el corazón de Dios.
+,,,0,non-toxic, y andan calumniendo. Son bronce y hierro. Todos ellos son corruptores., y andan calumniendo. Son bronce y hierro. Todos ellos son corruptores.
+,,,0,non-toxic, el malvado morirá por su culpa., el malvado morirá por su culpa.
+,,,0,non-toxic," se proponen matarlo, quitarlo del medio."," se proponen matarlo, quitarlo del medio."
+,,,0,non-toxic, No dejarse matar y causarles el mayor miedo y daño., No dejarse matar y causarles el mayor miedo y daño.
+,,,0,non-toxic, Si te digo que si no hubiese sido por estas cosas que estos anales contienen., Si te digo que si no hubiese sido por estas cosas que estos anales contienen.
+,,,0,non-toxic," es una movilización, sí, perpetua, alrededor de un líder carismático,"," es una movilización, sí, perpetua, alrededor de un líder carismático,"
+,,,0,non-toxic, a disparar a una fiscalía., a disparar a una fiscalía.
+,,,0,non-toxic, Necios con una perspectiva torcida imposible en cuarenta y irracional., Necios con una perspectiva torcida imposible en cuarenta y irracional.
+,,,0,non-toxic," quien había hablado para bien del rey, está en casa de amán. Entonces el rey dijo, colgádlo en ella."," quien había hablado para bien del rey, está en casa de amán. Entonces el rey dijo, colgádlo en ella."
+,,,2,toxic, Me va matando despacio Me va matando,It's steadily impacting me; I can feel its effects.
+,,,0,non-toxic, lo comerían y luego morirían de hambre. ¿No tenían nada más?, lo comerían y luego morirían de hambre. ¿No tenían nada más?
+,,,0,non-toxic, y lo castigaré a él y a su descendencia y a susiervos por su iniquidad., y lo castigaré a él y a su descendencia y a susiervos por su iniquidad.
+,,,0,non-toxic, Tu no sé. ux tu ha muerto, Tu no sé. ux tu ha muerto
+,,,0,non-toxic, porque el son del incuente de la, porque el son del incuente de la
+,,,0,non-toxic," ¡Precador! Si o no. Si, si, si, dice que no, ¡rementiroso!"," ¡Precador! Si o no. Si, si, si, dice que no, ¡rementiroso!"
+,,,0,non-toxic, Este libro es el libro de Dios. Tú no estás en tu ignorancia., Este libro es el libro de Dios. Tú no estás en tu ignorancia.
+,,,0,non-toxic, ser amigos donde tú mueras, ser amigos donde tú mueras
+,,,1,toxic, Grittava! Nonstruo! Orrodossa monstruo!,"They were calling out loudly, expressing their terror at the frightening sight before them!"
+,,,0,non-toxic," con esa resolución de los cobardes cuando nada los detiene. El Señor no está, respondió un criado."," con esa resolución de los cobardes cuando nada los detiene. El Señor no está, respondió un criado."
+,,,0,non-toxic," y tú y yo seguimos igual, con nuestras más tonterías."," y tú y yo seguimos igual, con nuestras más tonterías."
+,,,0,non-toxic," 3 veces le pido el señor señor, quita esta a Guijón en la carne, este mensajero y sataneste demonio."," 3 veces le pido el señor señor, quita esta a Guijón en la carne, este mensajero y sataneste demonio."
+,,,0,non-toxic," Es claro que yo no soy tan inteligente como tú, ni tan preparada."," Es claro que yo no soy tan inteligente como tú, ni tan preparada."
+,,,0,non-toxic, Sem forma mais do quebirics, Sem forma mais do quebirics
+,,,0,non-toxic, golpea el veloz con toda su fuerza., golpea el veloz con toda su fuerza.
+,,,0,non-toxic," y que su dominancia era incapaz callada, soy un imbécil repuso el cardenal."," y que su dominancia era incapaz callada, soy un imbécil repuso el cardenal."
+,,,0,non-toxic, de repente van a hacer algo que te va a recorrer con yo., de repente van a hacer algo que te va a recorrer con yo.
+,,,0,non-toxic," de pilatos, no nos quejemos de la frivolidad repugnante."," de pilatos, no nos quejemos de la frivolidad repugnante."
+,,,1,toxic, sacada lá e se é a quem é mal.,Extracted there and if it is to whoever is wrong.
+,,,0,non-toxic, en unas pocas horas Jesús iba a ser traicionado y asesinado., en unas pocas horas Jesús iba a ser traicionado y asesinado.
+,,,0,non-toxic, Nos acabaron esto le está extraviendo mucha persona, Nos acabaron esto le está extraviendo mucha persona
+,,,1,toxic, que también es un estupidez porque dices tú bueno.,"que también es una idea equivocada porque según tú, está bien."
+,,,0,non-toxic, y la gente compra esa basura., y la gente compra esa basura.
+,,,0,non-toxic, ¿Qué es cierto? ¿Se voy a ir entre vosotros por mi casa?, ¿Qué es cierto? ¿Se voy a ir entre vosotros por mi casa?
+,,,0,non-toxic, Listo islands! enlleno!, Listo islands! enlleno!
+,,,0,non-toxic, o también arrastrado por la hipocresía de ellos., o también arrastrado por la hipocresía de ellos.
+,,,0,non-toxic, y un amplio delantal sobre su exuberante seno., y un amplio delantal sobre su exuberante seno.
+,,,0,non-toxic, pues podemos echarles una mano., pues podemos echarles una mano.
+,,,0,non-toxic, Ricky que tiene la mal обще., Ricky que tiene la mal обще.
+,,,0,non-toxic," La iglesia es ignorante, este riblemente ignorante como consecuencia, fácilmente..."," La iglesia es ignorante, este riblemente ignorante como consecuencia, fácilmente..."
+,,,2,toxic, y antos gritos y ruidos fueron inútiles.,Todos esos gritos y ruidos no lograron tener impacto.
+,,,0,non-toxic, de verdad como se puede ser tan inútil., de verdad como se puede ser tan inútil.
+,,,0,non-toxic, nadie piensa en esos monstruos., nadie piensa en esos monstruos.
+,,,1,toxic," Dios, el mismo, el tuvo que venir y morir.",God himself had to come and sacrifice.
+,,,0,non-toxic, y luego morir y derramar su sangre por ti., y luego morir y derramar su sangre por ti.
+,,,0,non-toxic, entablar a amistades entre la nueva generación de la cual la poco llegó a ser el favorito., entablar a amistades entre la nueva generación de la cual la poco llegó a ser el favorito.
+,,,0,non-toxic, va a llevar aquello que es inutilizalzo., va a llevar aquello que es inutilizalzo.
+,,,0,non-toxic," Entonces, ella llega a hacer la transgresión."," Entonces, ella llega a hacer la transgresión."
+,,,0,non-toxic," No sé, yo que nos paremos a mirar, que esto no quería."," No sé, yo que nos paremos a mirar, que esto no quería."
+,,,0,non-toxic, recibieron dos balas de la cabeza., recibieron dos balas de la cabeza.
